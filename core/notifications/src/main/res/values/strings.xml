@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_reminders">یادآوری تمرین</string>
+    <string name="reminder_title">وقت تمرینه</string>
+    <string name="reminder_due">%1$d لغت منتظر مرورن، چند دقیقه بیشتر وقت نمی‌بره.</string>
+    <string name="reminder_no_due">چند لغت جدید یاد بگیر و هدف امروز رو کامل کن.</string>
+    <string name="streak_title">Streak ت رو از دست نده</string>
+    <string name="streak_body">%1$d روز پشت سر هم تمرین کردی. امروز هم یه مرور کوتاه بکن.</string>
+</resources>

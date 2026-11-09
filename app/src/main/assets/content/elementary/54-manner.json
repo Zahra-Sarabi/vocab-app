@@ -1,0 +1,41 @@
+{
+  "id": "elementary-54-manner",
+  "order": 54,
+  "title": "Manner",
+  "titleFa": "چطور؟ (صفت و قید حالت)",
+  "illustration": "star",
+  "color": "periwinkle",
+  "descriptionFa": "صفت‌ها و قیدهایی که می‌گن یه کار چطور انجام می‌شه: تند، آروم، خوب، بد.",
+  "referenceRows": [],
+  "words": [
+    { "id": "manner-fast", "text": "fast", "meaningFa": "سریع (صفت و قید)", "partOfSpeech": "adjective, adverb", "phonetic": "/fɑːst/", "example": "This is a fast car. It goes very fast.", "tipFa": "fast هم صفته هم قید؛ fastly نداریم." },
+    { "id": "manner-slow", "text": "slow", "meaningFa": "کُند (صفت)", "partOfSpeech": "adjective", "phonetic": "/sləʊ/", "example": "Let's take the slow train. It's cheaper.", "tipFa": "قیدش: slowly." },
+    { "id": "manner-slowly", "text": "slowly", "meaningFa": "آهسته، به‌آرامی (قید)", "partOfSpeech": "adverb", "phonetic": "/ˈsləʊ.li/", "example": "Please speak slowly. I'm learning English.", "tipFa": "صفت + ly = قید: slow → slowly، quiet → quietly." },
+    { "id": "manner-quickly", "text": "quickly", "meaningFa": "به‌سرعت، زود (قید)", "partOfSpeech": "adverb", "phonetic": "/ˈkwɪk.li/", "example": "Come quickly! The bus is here." },
+    { "id": "manner-loud", "text": "loud", "meaningFa": "بلند (صدا)", "partOfSpeech": "adjective", "phonetic": "/laʊd/", "example": "The music is too loud. Please turn it down." },
+    { "id": "manner-loudly", "text": "loudly", "meaningFa": "با صدای بلند (قید)", "partOfSpeech": "adverb", "phonetic": "/ˈlaʊd.li/", "example": "The children sang loudly at the party." },
+    { "id": "manner-quiet", "text": "quiet", "meaningFa": "ساکت، آروم (صفت)", "partOfSpeech": "adjective", "phonetic": "/ˈkwaɪ.ət/", "example": "It's very quiet in the library.", "tipFa": "با quite (کاملاً) قاطی نشه. تلفظ: «کوایِت»." },
+    { "id": "manner-quietly", "text": "quietly", "meaningFa": "آهسته، بی‌صدا (قید)", "partOfSpeech": "adverb", "phonetic": "/ˈkwaɪ.ət.li/", "example": "The baby is sleeping, so please talk quietly." },
+    { "id": "manner-well", "text": "well", "meaningFa": "به‌خوبی (قید good)", "partOfSpeech": "adverb", "phonetic": "/wel/", "example": "She's a good driver. She drives well.", "tipFa": "قیدِ good می‌شه well، نه goodly." },
+    { "id": "manner-badly", "text": "badly", "meaningFa": "بد (قید)", "partOfSpeech": "adverb", "phonetic": "/ˈbæd.li/", "example": "He's a bad driver. He drives badly." },
+    { "id": "manner-right", "text": "right", "meaningFa": "درست", "partOfSpeech": "adjective", "phonetic": "/raɪt/", "example": "Is this the right answer?", "tipFa": "the right way = راه درست. right معنی «راست» (جهت) هم داره." },
+    { "id": "manner-wrong", "text": "wrong", "meaningFa": "غلط، اشتباه", "partOfSpeech": "adjective", "phonetic": "/rɒŋ/", "example": "Sorry, I think you have the wrong number.", "tipFa": "w اول خونده نمی‌شه: «رانگ». the wrong way = راه اشتباه." },
+    { "id": "manner-in-a-friendly-way", "text": "in a friendly way", "meaningFa": "به‌شکل دوستانه", "partOfSpeech": "phrase", "phonetic": "/ɪn ə ˈfrend.li weɪ/", "example": "The shop assistant smiled and spoke to us in a friendly way.", "tipFa": "friendly قید نداره (friendlily نداریم)، برای همین in a friendly way می‌گیم. ضدش: in an unfriendly way." },
+    { "id": "manner-suddenly", "text": "suddenly", "meaningFa": "ناگهان", "partOfSpeech": "adverb", "phonetic": "/ˈsʌd.ən.li/", "example": "We were walking in the park when suddenly it started to rain." },
+    { "id": "manner-easily", "text": "easily", "meaningFa": "به‌راحتی", "partOfSpeech": "adverb", "phonetic": "/ˈiː.zɪ.li/", "example": "She's very clever. She passed the exam easily." },
+    { "id": "manner-sadly", "text": "sadly", "meaningFa": "با ناراحتی، متأسفانه", "partOfSpeech": "adverb", "phonetic": "/ˈsæd.li/", "example": "He looked sadly at his broken phone." },
+    { "id": "manner-strangely", "text": "strangely", "meaningFa": "به‌طرز عجیبی", "partOfSpeech": "adverb", "phonetic": "/ˈstreɪndʒ.li/", "example": "My cat is behaving strangely today. Maybe she's ill." }
+  ],
+  "gapQuestions": [
+    { "id": "manner-gap-1", "sentence": "This train is slow. It goes very ___.", "answer": "slowly", "hintFa": "قیدِ slow." },
+    { "id": "manner-gap-2", "sentence": "He's a bad singer. He sings very ___.", "answer": "badly", "hintFa": "قیدِ bad." },
+    { "id": "manner-gap-3", "sentence": "He's a good English speaker. He speaks English ___.", "answer": "well", "hintFa": "قیدِ good." },
+    { "id": "manner-gap-4", "sentence": "Please don't play your music so ___. I'm trying to study.", "answer": "loudly", "hintFa": "با صدای بلند." },
+    { "id": "manner-gap-5", "sentence": "The children are playing very ___ because grandma is asleep.", "answer": "quietly", "hintFa": "بی‌صدا." },
+    { "id": "manner-gap-6", "sentence": "That's the ___ answer. Try again!", "answer": "wrong", "hintFa": "غلط." },
+    { "id": "manner-gap-7", "sentence": "The lights went off ___, and the room was dark.", "answer": "suddenly", "hintFa": "ناگهان." },
+    { "id": "manner-gap-8", "sentence": "This bag is light. I can carry it ___.", "answer": "easily", "hintFa": "به‌راحتی." },
+    { "id": "manner-gap-9", "sentence": "The new neighbours always say hello ___.", "answer": "in a friendly way", "hintFa": "دوستانه." },
+    { "id": "manner-gap-10", "sentence": "He's a ___ swimmer. He won the race.", "answer": "fast", "hintFa": "سریع." }
+  ]
+}

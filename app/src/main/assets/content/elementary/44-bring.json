@@ -1,0 +1,24 @@
+{
+  "id": "elementary-44-bring",
+  "order": 44,
+  "title": "Bring / brought / brought",
+  "titleFa": "bring و take",
+  "illustration": "party-popper",
+  "color": "sky",
+  "descriptionFa": "فرق bring (آوردن به اینجا) و take (بردن به اونجا)، و bring back.",
+  "referenceRows": [],
+  "words": [
+    { "id": "bring-bring", "text": "bring", "meaningFa": "آوردن (به اینجا)", "partOfSpeech": "verb", "phonetic": "/brɪŋ/", "example": "Come to my house tomorrow and bring your guitar.", "tipFa": "bring مثل come هست: از اونجا به اینجا. برای کسی آوردن: bring me a glass of water." },
+    { "id": "bring-take", "text": "take", "meaningFa": "بردن (از اینجا به اونجا)", "partOfSpeech": "verb", "phonetic": "/teɪk/", "example": "Please take these papers to the secretary.", "tipFa": "take مثل go هست: از اینجا به اونجا." },
+    { "id": "bring-brought", "text": "brought", "meaningFa": "آورد (گذشته‌ی bring)", "partOfSpeech": "verb", "phonetic": "/brɔːt/", "example": "My aunt brought us some sweets from Yazd.", "tipFa": "bring / brought / brought. تلفظ: «بروت»، gh خونده نمی‌شه." },
+    { "id": "bring-bring-back", "text": "bring back", "meaningFa": "پس آوردن، برگردوندن", "partOfSpeech": "phrasal verb", "phonetic": "/brɪŋ ˈbæk/", "example": "Please bring back my umbrella tomorrow.", "tipFa": "با ضمیر وسطش: bring it back." }
+  ],
+  "gapQuestions": [
+    { "id": "bring-gap-1", "sentence": "Are you going to the kitchen? Can you ___ me some water?", "answer": "bring", "hintFa": "از اونجا به اینجا." },
+    { "id": "bring-gap-2", "sentence": "You're going to school? Don't forget to ___ your books with you.", "answer": "take", "hintFa": "از اینجا به اونجا." },
+    { "id": "bring-gap-3", "sentence": "When he came back from Isfahan, he ___ me a beautiful present.", "answer": "brought", "hintFa": "گذشته‌ی bring." },
+    { "id": "bring-gap-4", "sentence": "This is the library's book. Please ___ all the books next week.", "answer": "bring back", "hintFa": "پس بیار." },
+    { "id": "bring-gap-5", "sentence": "Everybody is going to ___ some food to the party at my house.", "answer": "bring", "hintFa": "به خونه‌ی من." },
+    { "id": "bring-gap-6", "sentence": "Can you ___ this letter to the post office for me?", "answer": "take", "hintFa": "ببری اونجا." }
+  ]
+}

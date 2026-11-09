@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="progress_title">پیشرفت</string>
+    <string name="progress_learned">لغت یادگرفته</string>
+    <string name="progress_mastered">لغت مسلط</string>
+    <string name="progress_streak">روز پیاپی</string>
+    <string name="progress_calendar">فعالیت ۵ هفته‌ی اخیر</string>
+    <string name="progress_calendar_count">%1$d از %2$d روز</string>
+    <string name="progress_less">کم</string>
+    <string name="progress_more">زیاد</string>
+    <string name="progress_levels">تسلط سطح‌ها</string>
+    <string name="progress_accuracy">دقت در ۳۰ روز اخیر: %1$d٪</string>
+    <string name="progress_longest">بیشترین Streak: %1$d روز</string>
+    <string name="progress_badges">نشان‌ها</string>
+    <string name="badge_first_unit">اولین فصل</string>
+    <string name="badge_week">۷ روز پیاپی</string>
+    <string name="badge_month">۳۰ روز پیاپی</string>
+    <string name="badge_100">۱۰۰ لغت مسلط</string>
+</resources>

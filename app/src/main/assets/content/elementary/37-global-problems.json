@@ -1,0 +1,40 @@
+{
+  "id": "elementary-37-global-problems",
+  "order": 37,
+  "title": "Global problems",
+  "titleFa": "مشکلات جهانی",
+  "illustration": "fire",
+  "color": "lilac",
+  "descriptionFa": "بلایای طبیعی، مشکلات اجتماعی، آلودگی و ترافیک.",
+  "referenceRows": [],
+  "words": [
+    { "id": "global-natural-disaster", "text": "natural disaster", "meaningFa": "بلای طبیعی", "partOfSpeech": "noun", "phonetic": "/ˌnætʃ.ər.əl dɪˈzɑː.stər/", "example": "A flood is a natural disaster." },
+    { "id": "global-earthquake", "text": "earthquake", "meaningFa": "زلزله", "partOfSpeech": "noun", "phonetic": "/ˈɜːθ.kweɪk/", "example": "The earthquake woke everyone up at four in the morning." },
+    { "id": "global-flood", "text": "flood", "meaningFa": "سیل", "partOfSpeech": "noun, verb", "phonetic": "/flʌd/", "example": "After the heavy rain, there was a flood in the village.", "tipFa": "oo اینجا «آ» خونده می‌شه. فعلش: The river floods every spring." },
+    { "id": "global-snowstorm", "text": "snowstorm", "meaningFa": "کولاک، توفان برف", "partOfSpeech": "noun", "phonetic": "/ˈsnəʊ.stɔːm/", "example": "The snowstorm closed the roads to the mountains." },
+    { "id": "global-forest-fire", "text": "forest fire", "meaningFa": "آتش‌سوزی جنگل", "partOfSpeech": "noun", "phonetic": "/ˈfɒr.ɪst ˌfaɪər/", "example": "Firefighters worked all night to stop the forest fire." },
+    { "id": "global-crowded", "text": "crowded", "meaningFa": "شلوغ، پرجمعیت", "partOfSpeech": "adjective", "phonetic": "/ˈkraʊ.dɪd/", "example": "The metro is very crowded in the morning." },
+    { "id": "global-poor", "text": "poor", "meaningFa": "فقیر", "partOfSpeech": "adjective", "phonetic": "/pɔːr/", "example": "This charity helps poor families in the city.", "tipFa": "ضدش: rich. poor معنی «بیچاره» هم می‌ده: Poor you!" },
+    { "id": "global-homeless", "text": "homeless", "meaningFa": "بی‌خانمان", "partOfSpeech": "adjective", "phonetic": "/ˈhəʊm.ləs/", "example": "Some homeless people sleep in the park in summer." },
+    { "id": "global-unemployed", "text": "unemployed", "meaningFa": "بیکار", "partOfSpeech": "adjective", "phonetic": "/ˌʌn.ɪmˈplɔɪd/", "example": "My cousin has been unemployed since the factory closed.", "tipFa": "اسمش: unemployment (بیکاری)." },
+    { "id": "global-pollution", "text": "pollution", "meaningFa": "آلودگی", "partOfSpeech": "noun", "phonetic": "/pəˈluː.ʃən/", "example": "Air pollution is a big problem in Tehran in winter." },
+    { "id": "global-polluted", "text": "polluted", "meaningFa": "آلوده", "partOfSpeech": "adjective", "phonetic": "/pəˈluː.tɪd/", "example": "The river is so polluted that the fish are dying." },
+    { "id": "global-war", "text": "war", "meaningFa": "جنگ", "partOfSpeech": "noun", "phonetic": "/wɔːr/", "example": "Millions of people left their homes because of the war.", "tipFa": "تلفظ: «وُر»، نه «وار»." },
+    { "id": "global-on-strike", "text": "on strike", "meaningFa": "در اعتصاب", "partOfSpeech": "phrase", "phonetic": "/ɒn ˈstraɪk/", "example": "The bus drivers are on strike today, so I'm walking to work.", "tipFa": "اعتصاب کردن: go on strike." },
+    { "id": "global-car-crash", "text": "car crash", "meaningFa": "تصادف ماشین", "partOfSpeech": "noun", "phonetic": "/ˈkɑː ˌkræʃ/", "example": "Nobody was hurt in the car crash, but both cars were damaged." },
+    { "id": "global-traffic-jam", "text": "traffic jam", "meaningFa": "راه‌بندان، ترافیک سنگین", "partOfSpeech": "noun", "phonetic": "/ˈtræf.ɪk ˌdʒæm/", "example": "We were stuck in a traffic jam for two hours." },
+    { "id": "global-rush-hour", "text": "rush hour", "meaningFa": "ساعت اوج رفت‌وآمد", "partOfSpeech": "noun", "phonetic": "/ˈrʌʃ ˌaʊər/", "example": "Avoid the motorway during the rush hour." }
+  ],
+  "gapQuestions": [
+    { "id": "global-gap-1", "sentence": "The ground shook for twenty seconds. It was an ___.", "answer": "earthquake", "hintFa": "زلزله." },
+    { "id": "global-gap-2", "sentence": "There was so much rain that the river came over its banks and caused a ___.", "answer": "flood", "hintFa": "سیل." },
+    { "id": "global-gap-3", "sentence": "The drivers want more money, so they are ___ today.", "answer": "on strike", "hintFa": "در اعتصاب." },
+    { "id": "global-gap-4", "sentence": "I lost my job last month, so now I'm ___.", "answer": "unemployed", "hintFa": "بیکار." },
+    { "id": "global-gap-5", "sentence": "Don't drive between seven and nine. That's the ___.", "answer": "rush hour", "hintFa": "ساعت شلوغی." },
+    { "id": "global-gap-6", "sentence": "Factories put chemicals into the lake, and now it's ___.", "answer": "polluted", "hintFa": "آلوده." },
+    { "id": "global-gap-7", "sentence": "There are too many people in the city centre. It's very ___.", "answer": "crowded", "hintFa": "شلوغ." },
+    { "id": "global-gap-8", "sentence": "The summer was hot and dry, and a ___ destroyed thousands of trees.", "answer": "forest fire", "hintFa": "آتش‌سوزی جنگل." },
+    { "id": "global-gap-9", "sentence": "We were in a ___ for an hour because of an accident on the motorway.", "answer": "traffic jam", "hintFa": "راه‌بندان." },
+    { "id": "global-gap-10", "sentence": "People who have no home are ___.", "answer": "homeless", "hintFa": "بی‌خانمان." }
+  ]
+}

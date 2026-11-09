@@ -1,0 +1,37 @@
+{
+  "id": "elementary-50-conjunctions",
+  "order": 50,
+  "title": "Conjunctions and connecting words",
+  "titleFa": "کلمه‌های ربط",
+  "illustration": "light-bulb",
+  "color": "lilac",
+  "descriptionFa": "کلمه‌های کوچیک ولی مهمی که دو بخش جمله رو به هم وصل می‌کنن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "conj-and", "text": "and", "meaningFa": "و", "partOfSpeech": "conjunction", "phonetic": "/ænd/", "example": "Sara is a student and she works part-time in a café." },
+    { "id": "conj-but", "text": "but", "meaningFa": "اما، ولی", "partOfSpeech": "conjunction", "phonetic": "/bʌt/", "example": "They are rich, but they aren't happy." },
+    { "id": "conj-or", "text": "or", "meaningFa": "یا", "partOfSpeech": "conjunction", "phonetic": "/ɔːr/", "example": "Would you like tea or coffee?" },
+    { "id": "conj-because", "text": "because", "meaningFa": "چون، زیرا", "partOfSpeech": "conjunction", "phonetic": "/bɪˈkɒz/", "example": "We went home early because we were tired.", "tipFa": "دلیل رو می‌گه: چرا اتفاق افتاد." },
+    { "id": "conj-so", "text": "so", "meaningFa": "پس، برای همین", "partOfSpeech": "conjunction", "phonetic": "/səʊ/", "example": "I felt ill, so I didn't go to work.", "tipFa": "نتیجه رو می‌گه. because برعکسشه: I didn't go to work because I felt ill." },
+    { "id": "conj-when", "text": "when", "meaningFa": "وقتی که", "partOfSpeech": "conjunction", "phonetic": "/wen/", "example": "Call me when you get home." },
+    { "id": "conj-before", "text": "before", "meaningFa": "قبل از اینکه", "partOfSpeech": "conjunction", "phonetic": "/bɪˈfɔːr/", "example": "We left before it started to rain." },
+    { "id": "conj-after", "text": "after", "meaningFa": "بعد از اینکه", "partOfSpeech": "conjunction", "phonetic": "/ˈɑːf.tər/", "example": "We went for a meal after we saw the film." },
+    { "id": "conj-if", "text": "if", "meaningFa": "اگه", "partOfSpeech": "conjunction", "phonetic": "/ɪf/", "example": "You can have ice cream if you eat your dinner." },
+    { "id": "conj-only", "text": "only", "meaningFa": "فقط", "partOfSpeech": "adverb", "phonetic": "/ˈəʊn.li/", "example": "He only sleeps for five hours every night." },
+    { "id": "conj-like", "text": "like", "meaningFa": "مثلِ، شبیهِ", "partOfSpeech": "preposition", "phonetic": "/laɪk/", "example": "She looks like her father.", "tipFa": "like فعل هم هست یعنی «دوست داشتن»." },
+    { "id": "conj-than", "text": "than", "meaningFa": "از (در مقایسه)", "partOfSpeech": "conjunction", "phonetic": "/ðæn/", "example": "My brother is taller than me.", "tipFa": "بعد از صفت مقایسه‌ای: bigger than, better than. با then (بعد) قاطی نشه." },
+    { "id": "conj-too", "text": "too", "meaningFa": "هم، همچنین (آخر جمله)", "partOfSpeech": "adverb", "phonetic": "/tuː/", "example": "I love swimming, and my brother loves it too.", "tipFa": "as well هم آخر جمله میاد. also قبل از فعل: She also works in the shop." }
+  ],
+  "gapQuestions": [
+    { "id": "conj-gap-1", "sentence": "I was hungry, ___ I made a sandwich.", "answer": "so", "hintFa": "برای همین." },
+    { "id": "conj-gap-2", "sentence": "I didn't go to the party ___ I was ill.", "answer": "because", "hintFa": "چون." },
+    { "id": "conj-gap-3", "sentence": "You can pay by card ___ in cash.", "answer": "or", "hintFa": "یا." },
+    { "id": "conj-gap-4", "sentence": "I'd like to come, ___ I have too much work.", "answer": "but", "hintFa": "ولی." },
+    { "id": "conj-gap-5", "sentence": "Wash your hands ___ you eat.", "answer": "before", "hintFa": "قبل از اینکه." },
+    { "id": "conj-gap-6", "sentence": "___ it rains tomorrow, we'll stay at home.", "answer": "if", "hintFa": "اگه." },
+    { "id": "conj-gap-7", "sentence": "Tehran is bigger ___ Shiraz.", "answer": "than", "hintFa": "از (مقایسه)." },
+    { "id": "conj-gap-8", "sentence": "My grandmother swims ___ a fish!", "answer": "like", "hintFa": "مثل." },
+    { "id": "conj-gap-9", "sentence": "I speak English, and my sister speaks it ___.", "answer": "too", "hintFa": "هم." },
+    { "id": "conj-gap-10", "sentence": "I have ___ five minutes. Please be quick.", "answer": "only", "hintFa": "فقط." }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "elementary-49-moving",
+  "order": 49,
+  "title": "Moving",
+  "titleFa": "حرکت و جابه‌جایی",
+  "illustration": "sport",
+  "color": "butter",
+  "descriptionFa": "فعل‌های حرکت بدن، ride و drive، و نرسیدن یا رسیدن به قطار.",
+  "referenceRows": [],
+  "words": [
+    { "id": "move-walk", "text": "walk", "meaningFa": "راه رفتن، پیاده رفتن", "partOfSpeech": "verb", "phonetic": "/wɔːk/", "example": "I walk to school because it's very close.", "tipFa": "l خونده نمی‌شه: «واک». گذشته: walked." },
+    { "id": "move-run", "text": "run", "meaningFa": "دویدن", "partOfSpeech": "verb", "phonetic": "/rʌn/", "example": "I run in the park every morning.", "tipFa": "گذشته: ran." },
+    { "id": "move-jump", "text": "jump", "meaningFa": "پریدن", "partOfSpeech": "verb", "phonetic": "/dʒʌmp/", "example": "The children love to jump into the pool.", "tipFa": "گذشته: jumped." },
+    { "id": "move-dance", "text": "dance", "meaningFa": "رقصیدن", "partOfSpeech": "verb", "phonetic": "/dɑːns/", "example": "Everyone started to dance at the wedding.", "tipFa": "گذشته: danced." },
+    { "id": "move-swim", "text": "swim", "meaningFa": "شنا کردن", "partOfSpeech": "verb", "phonetic": "/swɪm/", "example": "Can you swim? Yes, but not very well.", "tipFa": "گذشته: swam." },
+    { "id": "move-climb", "text": "climb", "meaningFa": "بالا رفتن (از کوه، درخت)", "partOfSpeech": "verb", "phonetic": "/klaɪm/", "example": "We want to climb Damavand next summer.", "tipFa": "b خونده نمی‌شه: «کلایم». گذشته: climbed." },
+    { "id": "move-fall", "text": "fall", "meaningFa": "افتادن", "partOfSpeech": "verb", "phonetic": "/fɔːl/", "example": "Be careful on the ice! Don't fall!", "tipFa": "گذشته: fell." },
+    { "id": "move-ride", "text": "ride", "meaningFa": "سوار شدن و راندن (دوچرخه، موتور، اسب)", "partOfSpeech": "verb", "phonetic": "/raɪd/", "example": "Can you ride a horse?", "tipFa": "دوچرخه، موتور و اسب رو ride می‌کنیم. گذشته: rode." },
+    { "id": "move-drive", "text": "drive", "meaningFa": "رانندگی کردن (ماشین، اتوبوس)", "partOfSpeech": "verb", "phonetic": "/draɪv/", "example": "My mother is learning to drive.", "tipFa": "ماشین، اتوبوس و قطار رو drive می‌کنیم. گذشته: drove." },
+    { "id": "move-miss", "text": "miss", "meaningFa": "از دست دادن (قطار، اتوبوس)", "partOfSpeech": "verb", "phonetic": "/mɪs/", "example": "Hurry up or we'll miss the train!", "tipFa": "miss معنی «دلتنگ بودن» هم داره: I miss you." },
+    { "id": "move-catch", "text": "catch", "meaningFa": "به (قطار، اتوبوس) رسیدن", "partOfSpeech": "verb", "phonetic": "/kætʃ/", "example": "If we leave now, we can catch the last bus.", "tipFa": "ضدِ miss. گذشته: caught. یعنی «گرفتن» هم هست: catch a ball." }
+  ],
+  "gapQuestions": [
+    { "id": "move-gap-1", "sentence": "My little brother is learning to ___ a bike.", "answer": "ride", "hintFa": "دوچرخه سواری." },
+    { "id": "move-gap-2", "sentence": "My uncle is a bus driver. He likes to ___ long distances.", "answer": "drive", "hintFa": "رانندگی." },
+    { "id": "move-gap-3", "sentence": "The bus leaves at 7.30. If you're late, you'll ___ it.", "answer": "miss", "hintFa": "از دستش بدی." },
+    { "id": "move-gap-4", "sentence": "Run! We can still ___ the train if we're quick.", "answer": "catch", "hintFa": "بهش برسیم." },
+    { "id": "move-gap-5", "sentence": "The cat can ___ up the tree, but it can't get down!", "answer": "climb", "hintFa": "بالا رفتن." },
+    { "id": "move-gap-6", "sentence": "It's dangerous to stand on that chair. You might ___.", "answer": "fall", "hintFa": "بیفتی." },
+    { "id": "move-gap-7", "sentence": "Ali can ___ very fast. He always wins races.", "answer": "run", "hintFa": "دویدن." },
+    { "id": "move-gap-8", "sentence": "The water is warm. Let's ___ to the island.", "answer": "swim", "hintFa": "شنا." },
+    { "id": "move-gap-9", "sentence": "It's not far. We can ___ there in ten minutes.", "answer": "walk", "hintFa": "پیاده رفتن." },
+    { "id": "move-gap-10", "sentence": "Can you ___ over that wall?", "answer": "jump", "hintFa": "پریدن." }
+  ]
+}

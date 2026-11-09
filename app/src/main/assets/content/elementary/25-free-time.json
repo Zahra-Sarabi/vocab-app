@@ -1,0 +1,42 @@
+{
+  "id": "elementary-25-free-time",
+  "order": 25,
+  "title": "Free time at home",
+  "titleFa": "اوقات فراغت در خانه",
+  "illustration": "home",
+  "color": "sky",
+  "descriptionFa": "سرگرمی‌ها، خوندنی‌ها، و کارهایی که توی خونه با دوستات می‌کنی.",
+  "referenceRows": [],
+  "words": [
+    { "id": "free-hobby", "text": "hobby", "meaningFa": "سرگرمی", "partOfSpeech": "noun", "phonetic": "/ˈhɒb.i/", "example": "My hobby is taking photos of old buildings.", "tipFa": "جمع: hobbies." },
+    { "id": "free-programme", "text": "programme", "meaningFa": "برنامه (تلویزیونی یا رادیویی)", "partOfSpeech": "noun", "phonetic": "/ˈprəʊ.ɡræm/", "example": "My favourite TV programme is about wild animals.", "tipFa": "آمریکایی‌ها program می‌نویسن." },
+    { "id": "free-headphones", "text": "headphones", "meaningFa": "هدفون", "partOfSpeech": "noun, plural", "phonetic": "/ˈhed.fəʊnz/", "example": "Put on your headphones, please. I'm trying to sleep." },
+    { "id": "free-play-video-games", "text": "play video games", "meaningFa": "بازی ویدیویی کردن", "partOfSpeech": "verb phrase", "phonetic": "/pleɪ ˈvɪd.i.əʊ ɡeɪmz/", "example": "My little brother wants to play video games all day." },
+    { "id": "free-the-internet", "text": "the Internet", "meaningFa": "اینترنت", "partOfSpeech": "noun", "phonetic": "/ðiː ˈɪn.tə.net/", "example": "I find new recipes on the Internet.", "tipFa": "با the: on the Internet. خیلی‌ها با i کوچیک هم می‌نویسن." },
+    { "id": "free-chat-online", "text": "chat online", "meaningFa": "چت کردن، گپ زدن آنلاین", "partOfSpeech": "verb phrase", "phonetic": "/tʃæt ˌɒnˈlaɪn/", "example": "I chat online with my cousins in Germany." },
+    { "id": "free-cooking", "text": "cooking", "meaningFa": "آشپزی (به‌عنوان سرگرمی)", "partOfSpeech": "noun", "phonetic": "/ˈkʊk.ɪŋ/", "example": "My father's hobby is cooking Iranian food." },
+    { "id": "free-gardening", "text": "gardening", "meaningFa": "باغبانی", "partOfSpeech": "noun", "phonetic": "/ˈɡɑː.dən.ɪŋ/", "example": "My grandmother spends hours gardening every spring." },
+    { "id": "free-grow", "text": "grow", "meaningFa": "کاشتن، پرورش دادن", "partOfSpeech": "verb", "phonetic": "/ɡrəʊ/", "example": "We grow tomatoes and mint in our garden.", "tipFa": "معنی «رشد کردن» هم می‌ده. گذشته: grew." },
+    { "id": "free-novel", "text": "novel", "meaningFa": "رمان", "partOfSpeech": "noun", "phonetic": "/ˈnɒv.əl/", "example": "I'm reading a novel by Simin Daneshvar." },
+    { "id": "free-comic", "text": "comic", "meaningFa": "کمیک، مجله‌ی مصور", "partOfSpeech": "noun", "phonetic": "/ˈkɒm.ɪk/", "example": "This comic has great pictures but not many words." },
+    { "id": "free-magazine", "text": "magazine", "meaningFa": "مجله", "partOfSpeech": "noun", "phonetic": "/ˌmæɡ.əˈziːn/", "example": "She reads a fashion magazine every month." },
+    { "id": "free-newspaper", "text": "newspaper", "meaningFa": "روزنامه", "partOfSpeech": "noun", "phonetic": "/ˈnjuːzˌpeɪ.pər/", "example": "My grandfather reads the newspaper with his breakfast." },
+    { "id": "free-have-friends-round", "text": "have friends round", "meaningFa": "دوستان رو خونه دعوت کردن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ˈfrendz ˌraʊnd/", "example": "We often have friends round on Thursday evenings.", "tipFa": "برای شام: have friends to dinner." },
+    { "id": "free-come-to-stay", "text": "come to stay", "meaningFa": "اومدن و چند شب موندن (مهمونی)", "partOfSpeech": "verb phrase", "phonetic": "/kʌm tə ˈsteɪ/", "example": "My cousins come to stay every summer." },
+    { "id": "free-on-the-phone", "text": "on the phone", "meaningFa": "پشت تلفن", "partOfSpeech": "phrase", "phonetic": "/ɒn ðə ˈfəʊn/", "example": "My sister is always on the phone!", "tipFa": "با کسی تلفنی حرف زدن: talk to someone on the phone." },
+    { "id": "free-do-nothing", "text": "do nothing", "meaningFa": "هیچ کاری نکردن", "partOfSpeech": "verb phrase", "phonetic": "/duː ˈnʌθ.ɪŋ/", "example": "On Fridays I like to do nothing at all." },
+    { "id": "free-have-a-sleep", "text": "have a sleep", "meaningFa": "چرت زدن، کمی خوابیدن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈsliːp/", "example": "The baby usually needs to have a sleep after his bath.", "tipFa": "have a nap هم می‌گن." }
+  ],
+  "gapQuestions": [
+    { "id": "free-gap-1", "sentence": "My dad loves ___. He spends every weekend with his roses.", "answer": "gardening", "hintFa": "کار با گل و گیاه." },
+    { "id": "free-gap-2", "sentence": "I can't hear you. I'm wearing ___.", "answer": "headphones", "hintFa": "روی گوش می‌ذاری." },
+    { "id": "free-gap-3", "sentence": "War and Peace is a very long ___.", "answer": "novel", "hintFa": "داستان بلند." },
+    { "id": "free-gap-4", "sentence": "Is there a good ___ on TV tonight?", "answer": "programme", "hintFa": "برنامه." },
+    { "id": "free-gap-5", "sentence": "We sometimes ___ and cook a big dinner together.", "answer": "have friends round", "hintFa": "دوستات رو خونه دعوت کنی." },
+    { "id": "free-gap-6", "sentence": "On holiday I don't work, read or cook. I just ___.", "answer": "do nothing", "hintFa": "هیچ کاری." },
+    { "id": "free-gap-7", "sentence": "I ___ with my friends every evening on my laptop.", "answer": "chat online", "hintFa": "گپ اینترنتی." },
+    { "id": "free-gap-8", "sentence": "My grandparents ___ for two weeks every Nowruz.", "answer": "come to stay", "hintFa": "میان و چند شب می‌مونن." },
+    { "id": "free-gap-9", "sentence": "Please be quiet. Dad is ___ with his boss.", "answer": "on the phone", "hintFa": "پشت تلفن." },
+    { "id": "free-gap-10", "sentence": "In our garden we ___ cucumbers, tomatoes and herbs.", "answer": "grow", "hintFa": "می‌کاریم." }
+  ]
+}

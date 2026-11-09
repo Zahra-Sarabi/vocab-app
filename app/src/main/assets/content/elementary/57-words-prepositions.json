@@ -1,0 +1,38 @@
+{
+  "id": "elementary-57-words-prepositions",
+  "order": 57,
+  "title": "Words and prepositions",
+  "titleFa": "فعل و صفت + حرف اضافه",
+  "illustration": "brain",
+  "color": "lilac",
+  "descriptionFa": "فعل‌ها و صفت‌هایی که همیشه با یه حرف اضافه‌ی مشخص میان.",
+  "referenceRows": [],
+  "words": [
+    { "id": "prep-wait-for", "text": "wait for", "meaningFa": "منتظر … بودن", "partOfSpeech": "verb phrase", "phonetic": "/ˈweɪt fɔːr/", "example": "I'll wait for you outside the cinema.", "tipFa": "wait for someone، نه wait someone." },
+    { "id": "prep-pay-for", "text": "pay for", "meaningFa": "پول (چیزی رو) دادن", "partOfSpeech": "verb phrase", "phonetic": "/ˈpeɪ fɔːr/", "example": "Let me pay for the tickets." },
+    { "id": "prep-belong-to", "text": "belong to", "meaningFa": "مال … بودن؛ عضو … بودن", "partOfSpeech": "verb phrase", "phonetic": "/bɪˈlɒŋ tuː/", "example": "Does this bag belong to you?", "tipFa": "عضویت هم هست: She belongs to a tennis club." },
+    { "id": "prep-think-about", "text": "think about", "meaningFa": "فکر کردن به", "partOfSpeech": "verb phrase", "phonetic": "/ˈθɪŋk əˌbaʊt/", "example": "I often think about my old school friends." },
+    { "id": "prep-thank-you-for", "text": "thank you for", "meaningFa": "ممنون بابتِ", "partOfSpeech": "phrase", "phonetic": "/ˈθæŋk juː fɔːr/", "example": "Thank you for the lovely present!", "tipFa": "با اسم دیگه: She thanked her mother for the present." },
+    { "id": "prep-look-at", "text": "look at", "meaningFa": "نگاه کردن به", "partOfSpeech": "verb phrase", "phonetic": "/ˈlʊk æt/", "example": "I love to look at old family photos." },
+    { "id": "prep-look-after", "text": "look after", "meaningFa": "مراقبت کردن از", "partOfSpeech": "verb phrase", "phonetic": "/lʊk ˈɑːf.tər/", "example": "Can you look after my cat while I'm away?" },
+    { "id": "prep-look-forward-to", "text": "look forward to", "meaningFa": "مشتاقانه منتظرِ … بودن", "partOfSpeech": "verb phrase", "phonetic": "/lʊk ˈfɔː.wəd tuː/", "example": "I look forward to seeing you next week.", "tipFa": "بعدش اسم یا ing: look forward to the holiday / to seeing you." },
+    { "id": "prep-good-at", "text": "good at", "meaningFa": "خوب در، وارد به", "partOfSpeech": "adjective phrase", "phonetic": "/ˈɡʊd æt/", "example": "I'm good at geography but bad at maths.", "tipFa": "ضدش: bad at. بعدش اسم یا ing: good at playing the piano." },
+    { "id": "prep-interested-in", "text": "interested in", "meaningFa": "علاقه‌مند به", "partOfSpeech": "adjective phrase", "phonetic": "/ˈɪn.trəs.tɪd ɪn/", "example": "My son is very interested in science." },
+    { "id": "prep-afraid-of", "text": "afraid of", "meaningFa": "ترسیدن از", "partOfSpeech": "adjective phrase", "phonetic": "/əˈfreɪd əv/", "example": "My little sister is afraid of dogs." },
+    { "id": "prep-proud-of", "text": "proud of", "meaningFa": "افتخار کردن به، مفتخر به", "partOfSpeech": "adjective phrase", "phonetic": "/ˈpraʊd əv/", "example": "Her parents are very proud of her." },
+    { "id": "prep-happy-about", "text": "happy about", "meaningFa": "خوشحال از (چیزی)", "partOfSpeech": "adjective phrase", "phonetic": "/ˈhæp.i əˌbaʊt/", "example": "I'm really happy about your success.", "tipFa": "happy about something، نه happy for something." },
+    { "id": "prep-used-to", "text": "used to", "meaningFa": "عادت داشتن به", "partOfSpeech": "adjective phrase", "phonetic": "/ˈjuːst tuː/", "example": "I'm used to getting up early. I always do.", "tipFa": "be used to = به چیزی عادت داری. get used to = داری عادت می‌کنی." }
+  ],
+  "gapQuestions": [
+    { "id": "prep-gap-1", "sentence": "Can you ___ me? I'm almost ready.", "answer": "wait for", "hintFa": "منتظر." },
+    { "id": "prep-gap-2", "sentence": "A nurse's job is to ___ sick people.", "answer": "look after", "hintFa": "مراقبت." },
+    { "id": "prep-gap-3", "sentence": "It's my birthday soon. I really ___ it!", "answer": "look forward to", "hintFa": "مشتاقانه منتظرم." },
+    { "id": "prep-gap-4", "sentence": "___ this picture! Isn't it beautiful?", "answer": "look at", "hintFa": "نگاه کردن." },
+    { "id": "prep-gap-5", "sentence": "Josephine is very ___ English and maths.", "answer": "good at", "hintFa": "خوب در." },
+    { "id": "prep-gap-6", "sentence": "My grandfather is very ___ history. He reads about it every day.", "answer": "interested in", "hintFa": "علاقه‌مند." },
+    { "id": "prep-gap-7", "sentence": "Many people are ___ spiders.", "answer": "afraid of", "hintFa": "ترسیدن از." },
+    { "id": "prep-gap-8", "sentence": "She won a medal, and her parents are very ___ her.", "answer": "proud of", "hintFa": "افتخار به." },
+    { "id": "prep-gap-9", "sentence": "Does this phone ___ you? I found it on the table.", "answer": "belong to", "hintFa": "مال کیه؟" },
+    { "id": "prep-gap-10", "sentence": "I'm from the north, so I'm ___ rainy weather.", "answer": "used to", "hintFa": "عادت داشتن." }
+  ]
+}

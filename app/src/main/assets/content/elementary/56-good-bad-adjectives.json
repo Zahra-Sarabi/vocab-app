@@ -1,0 +1,38 @@
+{
+  "id": "elementary-56-good-bad-adjectives",
+  "order": 56,
+  "title": "Common adjectives: Good and bad things",
+  "titleFa": "صفت‌های خوب و بد",
+  "illustration": "star",
+  "color": "butter",
+  "descriptionFa": "صفت‌هایی که با اون‌ها می‌گیم چیزی خوب یا بده، و واکنش‌های کوتاه مثل How nice!",
+  "referenceRows": [],
+  "words": [
+    { "id": "goodbad-nice", "text": "nice", "meaningFa": "خوب، قشنگ، دلپذیر", "partOfSpeech": "adjective", "phonetic": "/naɪs/", "example": "That's a nice jacket!", "tipFa": "ترتیب از خوب به خیلی خوب: nice ← lovely ← great ← wonderful ← excellent." },
+    { "id": "goodbad-great", "text": "great", "meaningFa": "عالی", "partOfSpeech": "adjective", "phonetic": "/ɡreɪt/", "example": "It's a great film. We all loved it.", "tipFa": "ea اینجا «اِی» خونده می‌شه: «گرِیت»." },
+    { "id": "goodbad-wonderful", "text": "wonderful", "meaningFa": "فوق‌العاده", "partOfSpeech": "adjective", "phonetic": "/ˈwʌn.də.fəl/", "example": "We have a wonderful view of the sea from our room." },
+    { "id": "goodbad-excellent", "text": "excellent", "meaningFa": "بسیار عالی، ممتاز", "partOfSpeech": "adjective", "phonetic": "/ˈek.səl.ənt/", "example": "That's an excellent idea! Let's do it." },
+    { "id": "goodbad-perfect", "text": "perfect", "meaningFa": "بی‌نقص، کامل", "partOfSpeech": "adjective", "phonetic": "/ˈpɜː.fɪkt/", "example": "Dinner at eight? Perfect!" },
+    { "id": "goodbad-brilliant", "text": "brilliant", "meaningFa": "محشر، درخشان", "partOfSpeech": "adjective", "phonetic": "/ˈbrɪl.jənt/", "example": "You got a hundred percent? That's brilliant!", "tipFa": "بیشتر بریتانیایی‌ها می‌گن." },
+    { "id": "goodbad-marvellous", "text": "marvellous", "meaningFa": "شگفت‌انگیز", "partOfSpeech": "adjective", "phonetic": "/ˈmɑː.vəl.əs/", "example": "We had a marvellous holiday in Kish.", "tipFa": "آمریکایی‌ها marvelous (با یه l) می‌نویسن." },
+    { "id": "goodbad-not-bad", "text": "not bad", "meaningFa": "بد نیست (یعنی خوبه)", "partOfSpeech": "phrase", "phonetic": "/nɒt ˈbæd/", "example": "I get a good salary in my new job. That's not bad!", "tipFa": "توی حرف زدن یعنی «خوبه»." },
+    { "id": "goodbad-terrible", "text": "terrible", "meaningFa": "خیلی بد، وحشتناک", "partOfSpeech": "adjective", "phonetic": "/ˈter.ə.bəl/", "example": "I had a terrible day at work today." },
+    { "id": "goodbad-dreadful", "text": "dreadful", "meaningFa": "خیلی ناخوشایند، افتضاح", "partOfSpeech": "adjective", "phonetic": "/ˈdred.fəl/", "example": "What's that dreadful smell?" },
+    { "id": "goodbad-awful", "text": "awful", "meaningFa": "خیلی بد، مزخرف", "partOfSpeech": "adjective", "phonetic": "/ˈɔː.fəl/", "example": "My hair looks awful! I need a hairdresser." },
+    { "id": "goodbad-nasty", "text": "nasty", "meaningFa": "زننده، بدجنس", "partOfSpeech": "adjective", "phonetic": "/ˈnɑː.sti/", "example": "Don't be nasty to your little brother!" },
+    { "id": "goodbad-how-nice", "text": "how nice", "meaningFa": "چه خوب!", "partOfSpeech": "phrase", "phonetic": "/haʊ ˈnaɪs/", "example": "You're going to Paris? How nice!", "tipFa": "How wonderful! / How lovely! هم می‌گیم." },
+    { "id": "goodbad-how-awful", "text": "how awful", "meaningFa": "چه بد!", "partOfSpeech": "phrase", "phonetic": "/haʊ ˈɔː.fəl/", "example": "You have three exams on the same day? How awful!", "tipFa": "How horrible! هم درسته، ولی How bad! نمی‌گیم." }
+  ],
+  "gapQuestions": [
+    { "id": "goodbad-gap-1", "sentence": "My hair's ___! I must go to the hairdresser's.", "answer": "awful", "hintFa": "خیلی بد." },
+    { "id": "goodbad-gap-2", "sentence": "That's an ___ idea! Let's do it.", "answer": "excellent", "hintFa": "بسیار عالی." },
+    { "id": "goodbad-gap-3", "sentence": "___! Three exams on the same day!", "answer": "how awful", "hintFa": "چه بد!" },
+    { "id": "goodbad-gap-4", "sentence": "My timetable's ___. I'm free on Wednesdays and Fridays.", "answer": "not bad", "hintFa": "بد نیست." },
+    { "id": "goodbad-gap-5", "sentence": "We have a ___ view of the mountains from our hotel room.", "answer": "wonderful", "hintFa": "فوق‌العاده." },
+    { "id": "goodbad-gap-6", "sentence": "The traffic is ___ in the city centre. Take the metro.", "answer": "terrible", "hintFa": "خیلی بد." },
+    { "id": "goodbad-gap-7", "sentence": "Your new baby is so beautiful. ___!", "answer": "how nice", "hintFa": "چه خوب!" },
+    { "id": "goodbad-gap-8", "sentence": "The hotel had everything we wanted. It was ___.", "answer": "perfect", "hintFa": "بی‌نقص." },
+    { "id": "goodbad-gap-9", "sentence": "That man said something very ___ to the waiter.", "answer": "nasty", "hintFa": "زننده." },
+    { "id": "goodbad-gap-10", "sentence": "What a ___ house! The sea is only 100 metres away!", "answer": "great", "hintFa": "عالی." }
+  ]
+}

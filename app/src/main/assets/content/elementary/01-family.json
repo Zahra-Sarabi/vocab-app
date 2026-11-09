@@ -1,0 +1,46 @@
+{
+  "id": "elementary-01-family",
+  "order": 1,
+  "title": "Family",
+  "titleFa": "خانواده",
+  "illustration": "family",
+  "color": "periwinkle",
+  "descriptionFa": "اسم اعضای خانواده و فامیل، و حرف زدن درباره‌ی خانواده‌ی خودت.",
+  "referenceRows": [
+    "Hassan + Parvin",
+    "Ali + Sara  |  Maryam + Kaveh",
+    "Arash, Nazanin  |  Dara"
+  ],
+  "words": [
+    { "id": "family-mother", "text": "mother", "meaningFa": "مادر", "partOfSpeech": "noun", "phonetic": "/ˈmʌð.ər/", "example": "Sara is Arash's mother." },
+    { "id": "family-father", "text": "father", "meaningFa": "پدر", "partOfSpeech": "noun", "phonetic": "/ˈfɑː.ðər/", "example": "Ali is Nazanin's father." },
+    { "id": "family-parents", "text": "parents", "meaningFa": "والدین (پدر و مادر)", "partOfSpeech": "noun, plural", "phonetic": "/ˈpeə.rənts/", "example": "Ali and Sara are Arash's parents." },
+    { "id": "family-son", "text": "son", "meaningFa": "پسر (فرزند پسر)", "partOfSpeech": "noun", "phonetic": "/sʌn/", "example": "Arash is Ali's son.", "tipFa": "son یعنی فرزند پسر؛ برای «پسربچه» به‌طور کلی boy می‌گیم." },
+    { "id": "family-daughter", "text": "daughter", "meaningFa": "دختر (فرزند دختر)", "partOfSpeech": "noun", "phonetic": "/ˈdɔː.tər/", "example": "Nazanin is Sara's daughter.", "tipFa": "daughter یعنی فرزند دختر؛ برای «دختربچه» به‌طور کلی girl می‌گیم." },
+    { "id": "family-brother", "text": "brother", "meaningFa": "برادر", "partOfSpeech": "noun", "phonetic": "/ˈbrʌð.ər/", "example": "Arash is Nazanin's brother." },
+    { "id": "family-sister", "text": "sister", "meaningFa": "خواهر", "partOfSpeech": "noun", "phonetic": "/ˈsɪs.tər/", "example": "Nazanin is Arash's sister." },
+    { "id": "family-siblings", "text": "siblings", "meaningFa": "خواهر و برادر", "partOfSpeech": "noun, plural", "phonetic": "/ˈsɪb.lɪŋz/", "example": "Arash and Nazanin are siblings.", "tipFa": "برای دختر و پسر یکسانه و معمولاً جمع به کار می‌ره." },
+    { "id": "family-husband", "text": "husband", "meaningFa": "شوهر", "partOfSpeech": "noun", "phonetic": "/ˈhʌz.bənd/", "example": "Kaveh is Maryam's husband." },
+    { "id": "family-wife", "text": "wife", "meaningFa": "همسر (زن)", "partOfSpeech": "noun", "phonetic": "/waɪf/", "example": "Sara is Ali's wife.", "tipFa": "جمع wife می‌شه wives، نه wifes." },
+    { "id": "family-grandfather", "text": "grandfather", "meaningFa": "پدربزرگ", "partOfSpeech": "noun", "phonetic": "/ˈɡræn.fɑː.ðər/", "example": "Hassan is Dara's grandfather." },
+    { "id": "family-grandmother", "text": "grandmother", "meaningFa": "مادربزرگ", "partOfSpeech": "noun", "phonetic": "/ˈɡræn.mʌð.ər/", "example": "Parvin is Nazanin's grandmother." },
+    { "id": "family-grandparents", "text": "grandparents", "meaningFa": "پدربزرگ و مادربزرگ", "partOfSpeech": "noun, plural", "phonetic": "/ˈɡræn.peə.rənts/", "example": "Hassan and Parvin are Arash's grandparents." },
+    { "id": "family-grandson", "text": "grandson", "meaningFa": "نوه (پسر)", "partOfSpeech": "noun", "phonetic": "/ˈɡræn.sʌn/", "example": "Dara is Parvin's grandson." },
+    { "id": "family-granddaughter", "text": "granddaughter", "meaningFa": "نوه (دختر)", "partOfSpeech": "noun", "phonetic": "/ˈɡræn.dɔː.tər/", "example": "Nazanin is Hassan's granddaughter." },
+    { "id": "family-uncle", "text": "uncle", "meaningFa": "عمو، دایی، شوهرعمه، شوهرخاله", "partOfSpeech": "noun", "phonetic": "/ˈʌŋ.kəl/", "example": "Kaveh is Arash's uncle.", "tipFa": "انگلیسی برای همه‌ی این‌ها فقط یک کلمه داره." },
+    { "id": "family-aunt", "text": "aunt", "meaningFa": "عمه، خاله، زن‌عمو، زن‌دایی", "partOfSpeech": "noun", "phonetic": "/ɑːnt/", "example": "Maryam is Nazanin's aunt.", "tipFa": "انگلیسی برای همه‌ی این‌ها فقط یک کلمه داره." },
+    { "id": "family-nephew", "text": "nephew", "meaningFa": "برادرزاده یا خواهرزاده (پسر)", "partOfSpeech": "noun", "phonetic": "/ˈnef.juː/", "example": "Arash is Maryam's nephew." },
+    { "id": "family-niece", "text": "niece", "meaningFa": "برادرزاده یا خواهرزاده (دختر)", "partOfSpeech": "noun", "phonetic": "/niːs/", "example": "Nazanin is Kaveh's niece." },
+    { "id": "family-cousin", "text": "cousin", "meaningFa": "پسر یا دختر عمو، عمه، خاله یا دایی", "partOfSpeech": "noun", "phonetic": "/ˈkʌz.ən/", "example": "Dara is Arash's cousin.", "tipFa": "برای دختر و پسر یکسانه." },
+    { "id": "family-relatives", "text": "relatives", "meaningFa": "اقوام، فامیل", "partOfSpeech": "noun, plural", "phonetic": "/ˈrel.ə.tɪvz/", "example": "We visit our relatives at Nowruz.", "wordFamily": ["relative", "relation", "related"] },
+    { "id": "family-only-child", "text": "only child", "meaningFa": "تک‌فرزند", "partOfSpeech": "noun", "phonetic": "/ˌəʊn.li ˈtʃaɪld/", "example": "Dara has no brothers or sisters. He's an only child." }
+  ],
+  "gapQuestions": [
+    { "id": "family-gap-1", "sentence": "Nazanin is Arash's ___.", "answer": "sister", "hintFa": "به شجره‌نامه نگاه کن." },
+    { "id": "family-gap-2", "sentence": "Hassan and Parvin are Dara's ___.", "answer": "grandparents", "hintFa": "به شجره‌نامه نگاه کن." },
+    { "id": "family-gap-3", "sentence": "Dara is Nazanin's ___.", "answer": "cousin", "hintFa": "به شجره‌نامه نگاه کن." },
+    { "id": "family-gap-4", "sentence": "Arash is Kaveh's ___.", "answer": "nephew", "hintFa": "به شجره‌نامه نگاه کن." },
+    { "id": "family-gap-5", "sentence": "Nazanin is Maryam's ___.", "answer": "niece", "hintFa": "به شجره‌نامه نگاه کن." },
+    { "id": "family-gap-6", "sentence": "Maryam is Arash's ___.", "answer": "aunt", "hintFa": "به شجره‌نامه نگاه کن." }
+  ]
+}

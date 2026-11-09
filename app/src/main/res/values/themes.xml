@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="lavender_ground">#F2EEFA</color>
+    <color name="lavender_icon_bg">#E1D6FC</color>
+
+    <style name="Theme.Vocab" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/lavender_ground</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- Dark bar icons on the light ground; values-night flips them. The splash screen re-applies these on exit. -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+    </style>
+
+    <style name="Theme.Vocab.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/lavender_ground</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Vocab</item>
+    </style>
+</resources>

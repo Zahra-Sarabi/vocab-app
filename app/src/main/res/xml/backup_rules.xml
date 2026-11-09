@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android Auto Backup (API 30 and below): progress database and settings. -->
+<full-backup-content>
+    <include domain="database" path="vocab.db" />
+    <include domain="file" path="datastore/settings.preferences_pb" />
+</full-backup-content>

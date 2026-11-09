@@ -1,0 +1,35 @@
+{
+  "id": "elementary-48-talking",
+  "order": 48,
+  "title": "Talking",
+  "titleFa": "حرف زدن",
+  "illustration": "speaker",
+  "color": "mint",
+  "descriptionFa": "فرق say، tell، ask، speak، talk، answer و reply.",
+  "referenceRows": [],
+  "words": [
+    { "id": "talk-say", "text": "say", "meaningFa": "گفتن (حرفی)", "partOfSpeech": "verb", "phonetic": "/seɪ/", "example": "How do you say 'book' in Spanish?", "tipFa": "say بلافاصله با آدم نمیاد: He said his name، نه He said me. say hello / goodbye / thank you." },
+    { "id": "talk-said", "text": "said", "meaningFa": "گفت (گذشته‌ی say)", "partOfSpeech": "verb", "phonetic": "/sed/", "example": "She said that she was tired.", "tipFa": "say / said / said. تلفظ: «سِد»، نه «سِید»." },
+    { "id": "talk-tell", "text": "tell", "meaningFa": "گفتن به (کسی)", "partOfSpeech": "verb", "phonetic": "/tel/", "example": "Can you tell me where the bus station is?", "tipFa": "tell بلافاصله با آدم میاد: tell me, tell her. نه say me." },
+    { "id": "talk-told", "text": "told", "meaningFa": "گفت به (گذشته‌ی tell)", "partOfSpeech": "verb", "phonetic": "/təʊld/", "example": "He told me his name, but I forgot it.", "tipFa": "tell / told / told." },
+    { "id": "talk-tell-a-joke", "text": "tell a joke", "meaningFa": "جوک گفتن", "partOfSpeech": "verb phrase", "phonetic": "/tel ə ˈdʒəʊk/", "example": "My uncle loves to tell a joke at dinner.", "tipFa": "tell a story هم همین‌طور: قصه گفتن." },
+    { "id": "talk-ask", "text": "ask", "meaningFa": "پرسیدن؛ خواستن (از کسی)", "partOfSpeech": "verb", "phonetic": "/ɑːsk/", "example": "Can I ask you a question?", "tipFa": "ask someone to do something: I asked him to turn off the radio." },
+    { "id": "talk-ask-for", "text": "ask for", "meaningFa": "درخواست کردن (چیزی)", "partOfSpeech": "verb phrase", "phonetic": "/ˈɑːsk fɔːr/", "example": "If you need anything, just ask for it.", "tipFa": "ask for help, ask for the menu." },
+    { "id": "talk-speak", "text": "speak", "meaningFa": "صحبت کردن (به یه زبان)", "partOfSpeech": "verb", "phonetic": "/spiːk/", "example": "Do you speak Japanese?", "tipFa": "برای زبان speak می‌گیم، نه talk: Do you speak French?" },
+    { "id": "talk-talk-to", "text": "talk to", "meaningFa": "حرف زدن با", "partOfSpeech": "verb phrase", "phonetic": "/ˈtɔːk tuː/", "example": "I like to talk to my grandmother about the old days." },
+    { "id": "talk-answer", "text": "answer", "meaningFa": "جواب دادن (تلفن، در، سؤال)", "partOfSpeech": "verb", "phonetic": "/ˈɑːn.sər/", "example": "Can you answer the phone, please? I'm cooking.", "tipFa": "w خونده نمی‌شه: «آنسِر». answer the door = در رو باز کردن." },
+    { "id": "talk-reply-to", "text": "reply to", "meaningFa": "جواب دادن به (پیام، ایمیل)", "partOfSpeech": "verb phrase", "phonetic": "/rɪˈplaɪ tuː/", "example": "He didn't reply to my email." }
+  ],
+  "gapQuestions": [
+    { "id": "talk-gap-1", "sentence": "Excuse me, can you ___ me the way to the station?", "answer": "tell", "hintFa": "گفتن به کسی." },
+    { "id": "talk-gap-2", "sentence": "Don't forget to ___ thank you to your aunt for the present.", "answer": "say", "hintFa": "گفتن." },
+    { "id": "talk-gap-3", "sentence": "My friend ___ me a funny story yesterday.", "answer": "told", "hintFa": "گذشته‌ی tell." },
+    { "id": "talk-gap-4", "sentence": "I'm in the kitchen. Can you ___ the door?", "answer": "answer", "hintFa": "جواب دادن." },
+    { "id": "talk-gap-5", "sentence": "My father can ___ English, Turkish and Arabic.", "answer": "speak", "hintFa": "برای زبان." },
+    { "id": "talk-gap-6", "sentence": "We've finished eating. Let's ___ the bill.", "answer": "ask for", "hintFa": "درخواست کردن." },
+    { "id": "talk-gap-7", "sentence": "I sent her three messages, but she didn't ___ any of them.", "answer": "reply to", "hintFa": "جواب دادن به پیام." },
+    { "id": "talk-gap-8", "sentence": "He ___ that he would be late.", "answer": "said", "hintFa": "گذشته‌ی say." },
+    { "id": "talk-gap-9", "sentence": "Can I ___ you a question about the homework?", "answer": "ask", "hintFa": "پرسیدن." },
+    { "id": "talk-gap-10", "sentence": "I'm sad. I need someone to ___.", "answer": "talk to", "hintFa": "حرف زدن با." }
+  ]
+}

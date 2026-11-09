@@ -1,0 +1,42 @@
+{
+  "id": "elementary-17-your-phone",
+  "order": 17,
+  "title": "Your phone",
+  "titleFa": "گوشی شما",
+  "illustration": "headphone",
+  "color": "butter",
+  "descriptionFa": "قسمت‌های گوشی، کار با گوشی هوشمند، و قفل و حافظه.",
+  "referenceRows": [],
+  "words": [
+    { "id": "phone-camera", "text": "camera", "meaningFa": "دوربین", "partOfSpeech": "noun", "phonetic": "/ˈkæm.rə/", "example": "My new phone has a great camera." },
+    { "id": "phone-app", "text": "app", "meaningFa": "برنامه، اپ", "partOfSpeech": "noun", "phonetic": "/æp/", "example": "This app tells you when the next bus is coming.", "tipFa": "کوتاه‌شده‌ی application." },
+    { "id": "phone-power-button", "text": "power button", "meaningFa": "دکمه‌ی روشن و خاموش", "partOfSpeech": "noun", "phonetic": "/ˈpaʊə ˌbʌt.ən/", "example": "Hold the power button for three seconds to turn off the phone." },
+    { "id": "phone-phone-case", "text": "phone case", "meaningFa": "قاب گوشی", "partOfSpeech": "noun", "phonetic": "/ˈfəʊn ˌkeɪs/", "example": "I dropped my phone, but the phone case protected it." },
+    { "id": "phone-battery", "text": "battery", "meaningFa": "باتری", "partOfSpeech": "noun", "phonetic": "/ˈbæt.ər.i/", "example": "My battery is low. Can I charge my phone here?", "tipFa": "باتری تموم شده: The battery is dead / My phone is dead." },
+    { "id": "phone-charger", "text": "charger", "meaningFa": "شارژر", "partOfSpeech": "noun", "phonetic": "/ˈtʃɑː.dʒər/", "example": "I forgot my charger at home." },
+    { "id": "phone-sim-card", "text": "SIM card", "meaningFa": "سیم‌کارت", "partOfSpeech": "noun", "phonetic": "/ˈsɪm ˌkɑːd/", "example": "I bought a local SIM card at the airport." },
+    { "id": "phone-memory", "text": "memory", "meaningFa": "حافظه", "partOfSpeech": "noun", "phonetic": "/ˈmem.ər.i/", "example": "My phone's memory is full.", "tipFa": "برای حافظه‌ی آدم هم هست: I have a bad memory." },
+    { "id": "phone-pin", "text": "PIN", "meaningFa": "رمز (پین)", "partOfSpeech": "noun", "phonetic": "/pɪn/", "example": "Never tell anyone your PIN.", "tipFa": "برای کارت بانکی هم همینه. کوتاه‌شده‌ی personal identification number." },
+    { "id": "phone-locked", "text": "locked", "meaningFa": "قفل (شده)", "partOfSpeech": "adjective", "phonetic": "/lɒkt/", "example": "My phone is locked and I can't remember the code!" },
+    { "id": "phone-unlock", "text": "unlock", "meaningFa": "باز کردن قفل", "partOfSpeech": "verb", "phonetic": "/ʌnˈlɒk/", "example": "Use your fingerprint to unlock the phone." },
+    { "id": "phone-swipe", "text": "swipe", "meaningFa": "کشیدن انگشت روی صفحه", "partOfSpeech": "verb", "phonetic": "/swaɪp/", "example": "Swipe left to see the next photo." },
+    { "id": "phone-call", "text": "call", "meaningFa": "زنگ زدن به", "partOfSpeech": "verb", "phonetic": "/kɔːl/", "example": "I'll call you tonight after dinner.", "tipFa": "call someone، بدون to: call my mum، نه call to my mum." },
+    { "id": "phone-download", "text": "download", "meaningFa": "دانلود کردن", "partOfSpeech": "verb", "phonetic": "/ˌdaʊnˈləʊd/", "example": "You can download this app for free." },
+    { "id": "phone-take-a-photo", "text": "take a photo", "meaningFa": "عکس گرفتن", "partOfSpeech": "verb phrase", "phonetic": "/teɪk ə ˈfəʊ.təʊ/", "example": "Excuse me, could you take a photo of us, please?", "tipFa": "take a photo، نه make یا do a photo." },
+    { "id": "phone-selfie", "text": "selfie", "meaningFa": "سلفی", "partOfSpeech": "noun", "phonetic": "/ˈsel.fi/", "example": "We took a selfie in front of the Azadi Tower.", "tipFa": "با take: take a selfie." },
+    { "id": "phone-save", "text": "save", "meaningFa": "ذخیره کردن", "partOfSpeech": "verb", "phonetic": "/seɪv/", "example": "Don't forget to save the file before you close it.", "tipFa": "save یعنی «پس‌انداز کردن» و «نجات دادن» هم هست." },
+    { "id": "phone-delete", "text": "delete", "meaningFa": "پاک کردن، حذف کردن", "partOfSpeech": "verb", "phonetic": "/dɪˈliːt/", "example": "Can you delete that photo? I look terrible!" }
+  ],
+  "gapQuestions": [
+    { "id": "phone-gap-1", "sentence": "My phone is dead. Have you got a ___?", "answer": "charger", "hintFa": "برای شارژ کردن." },
+    { "id": "phone-gap-2", "sentence": "I can't take any more photos. The ___ is full.", "answer": "memory", "hintFa": "جای ذخیره." },
+    { "id": "phone-gap-3", "sentence": "To see the next picture, just ___ left.", "answer": "swipe", "hintFa": "انگشتت رو بکش." },
+    { "id": "phone-gap-4", "sentence": "Type your four-number ___ to open the phone.", "answer": "PIN", "hintFa": "رمز عددی." },
+    { "id": "phone-gap-5", "sentence": "I look awful in that picture. Please ___ it!", "answer": "delete", "hintFa": "پاکش کن." },
+    { "id": "phone-gap-6", "sentence": "Press the ___ to turn your phone on.", "answer": "power button", "hintFa": "دکمه‌ی روشن کردن." },
+    { "id": "phone-gap-7", "sentence": "Without a ___, your phone can't make calls.", "answer": "SIM card", "hintFa": "کارت کوچیک اپراتور." },
+    { "id": "phone-gap-8", "sentence": "My grandmother doesn't know how to ___ apps, so I do it for her.", "answer": "download", "hintFa": "از اینترنت بگیری." },
+    { "id": "phone-gap-9", "sentence": "This ___ has a picture of a cat on the back.", "answer": "phone case", "hintFa": "روکش گوشی." },
+    { "id": "phone-gap-10", "sentence": "We stood together and took a ___ in front of the mountain.", "answer": "selfie", "hintFa": "عکس از خودت با گوشی." }
+  ]
+}

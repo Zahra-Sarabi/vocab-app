@@ -1,0 +1,39 @@
+{
+  "id": "elementary-55-uncountable-nouns",
+  "order": 55,
+  "title": "Common uncountable nouns",
+  "titleFa": "اسم‌های غیرقابل‌شمارش",
+  "illustration": "books",
+  "color": "pink",
+  "descriptionFa": "اسم‌هایی که جمع بسته نمی‌شن و a نمی‌گیرن، و چطور مقدارشون رو بگیم.",
+  "referenceRows": [],
+  "words": [
+    { "id": "uncount-money", "text": "money", "meaningFa": "پول", "partOfSpeech": "noun", "phonetic": "/ˈmʌn.i/", "example": "I'd like to buy a car, but I haven't got enough money.", "tipFa": "غیرقابل‌شمارش: some money، much money، نه moneys. ولی سکه (coin) و اسکناس (note) شمردنی‌ان." },
+    { "id": "uncount-advice", "text": "advice", "meaningFa": "نصیحت، توصیه", "partOfSpeech": "noun", "phonetic": "/ədˈvaɪs/", "example": "Can I give you some advice?", "tipFa": "نه an advice و نه advices. یکی‌ش: a piece of advice." },
+    { "id": "uncount-information", "text": "information", "meaningFa": "اطلاعات", "partOfSpeech": "noun", "phonetic": "/ˌɪn.fəˈmeɪ.ʃən/", "example": "Where can I get some information about hotels?", "tipFa": "نه informations." },
+    { "id": "uncount-traffic", "text": "traffic", "meaningFa": "ترافیک، رفت‌وآمد ماشین‌ها", "partOfSpeech": "noun", "phonetic": "/ˈtræf.ɪk/", "example": "There's always a lot of traffic in central Tehran.", "tipFa": "a lot of traffic، نه many traffics." },
+    { "id": "uncount-accommodation", "text": "accommodation", "meaningFa": "جای اقامت، محل سکونت", "partOfSpeech": "noun", "phonetic": "/əˌkɒm.əˈdeɪ.ʃən/", "example": "Accommodation in the city centre is very expensive.", "tipFa": "نه an accommodation. املاش: دو c و دو m." },
+    { "id": "uncount-air", "text": "air", "meaningFa": "هوا (برای نفس کشیدن)", "partOfSpeech": "noun", "phonetic": "/eər/", "example": "Let's open the window. I need some fresh air.", "tipFa": "با weather (وضع هوا) فرق داره." },
+    { "id": "uncount-work", "text": "work", "meaningFa": "کار", "partOfSpeech": "noun", "phonetic": "/wɜːk/", "example": "Studying for exams is hard work.", "tipFa": "غیرقابل‌شمارش: نه a work. شغل (شمردنی) می‌شه a job." },
+    { "id": "uncount-travel", "text": "travel", "meaningFa": "سفر کردن (به‌طور کلی)", "partOfSpeech": "noun", "phonetic": "/ˈtræv.əl/", "example": "Air travel is faster than rail travel.", "tipFa": "برای یه سفر مشخص trip یا journey می‌گیم، نه a travel." },
+    { "id": "uncount-spaghetti", "text": "spaghetti", "meaningFa": "اسپاگتی", "partOfSpeech": "noun", "phonetic": "/spəˈɡet.i/", "example": "Cook the spaghetti for ten minutes.", "tipFa": "فعلش مفرده: The spaghetti is ready." },
+    { "id": "uncount-butter", "text": "butter", "meaningFa": "کره", "partOfSpeech": "noun", "phonetic": "/ˈbʌt.ər/", "example": "I like bread with butter and honey for breakfast." },
+    { "id": "uncount-water", "text": "water", "meaningFa": "آب", "partOfSpeech": "noun", "phonetic": "/ˈwɔː.tər/", "example": "Can I have a glass of water, please?", "tipFa": "a glass of water، نه a water." },
+    { "id": "uncount-loaf", "text": "loaf", "meaningFa": "یک قرص (نان)", "partOfSpeech": "noun", "phonetic": "/ləʊf/", "example": "Can you buy a loaf of bread on your way home?", "tipFa": "جمع: two loaves of bread." },
+    { "id": "uncount-litre", "text": "litre", "meaningFa": "لیتر", "partOfSpeech": "noun", "phonetic": "/ˈliː.tər/", "example": "I drink a litre of water every morning.", "tipFa": "آمریکایی‌ها liter می‌نویسن. جمع: two litres of milk." },
+    { "id": "uncount-kilo", "text": "kilo", "meaningFa": "کیلو", "partOfSpeech": "noun", "phonetic": "/ˈkiː.ləʊ/", "example": "A kilo of rice, please.", "tipFa": "اسم کاملش kilogram هست." },
+    { "id": "uncount-equipment", "text": "equipment", "meaningFa": "وسایل، تجهیزات", "partOfSpeech": "noun", "phonetic": "/ɪˈkwɪp.mənt/", "example": "The gym has new equipment.", "tipFa": "غیرقابل‌شمارش: نه equipments." }
+  ],
+  "gapQuestions": [
+    { "id": "uncount-gap-1", "sentence": "If you don't know what to do, ask your parents for some ___.", "answer": "advice", "hintFa": "نصیحت." },
+    { "id": "uncount-gap-2", "sentence": "There's always a lot of ___ on the motorway on Friday evening.", "answer": "traffic", "hintFa": "ترافیک." },
+    { "id": "uncount-gap-3", "sentence": "The ___ at the seaside is very good for you.", "answer": "air", "hintFa": "هوای تازه." },
+    { "id": "uncount-gap-4", "sentence": "Rob left school last month and is now looking for ___.", "answer": "work", "hintFa": "کار." },
+    { "id": "uncount-gap-5", "sentence": "The tourist office can give you ___ about museums.", "answer": "information", "hintFa": "اطلاعات." },
+    { "id": "uncount-gap-6", "sentence": "Cows give us milk and ___.", "answer": "butter", "hintFa": "کره." },
+    { "id": "uncount-gap-7", "sentence": "We need to find ___ for our holiday. Hotels are very expensive.", "answer": "accommodation", "hintFa": "جای اقامت." },
+    { "id": "uncount-gap-8", "sentence": "Can you get a ___ of bread from the baker's?", "answer": "loaf", "hintFa": "یک قرص نان." },
+    { "id": "uncount-gap-9", "sentence": "I can't buy it. I don't have any ___.", "answer": "money", "hintFa": "پول." },
+    { "id": "uncount-gap-10", "sentence": "Take some sports ___ with you: a ball and a racket.", "answer": "equipment", "hintFa": "وسایل." }
+  ]
+}

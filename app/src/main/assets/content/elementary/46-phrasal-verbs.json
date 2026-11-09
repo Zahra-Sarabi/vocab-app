@@ -1,0 +1,26 @@
+{
+  "id": "elementary-46-phrasal-verbs",
+  "order": 46,
+  "title": "Phrasal verbs",
+  "titleFa": "فعل‌های دوکلمه‌ای",
+  "illustration": "brain",
+  "color": "pink",
+  "descriptionFa": "فعل‌هایی که با on, off, up, down معنی تازه پیدا می‌کنن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "phrasal-get-on", "text": "get on", "meaningFa": "سوار شدن (اتوبوس، قطار، هواپیما)", "partOfSpeech": "phrasal verb", "phonetic": "/ɡet ˈɒn/", "example": "Hurry up and get on the bus. It's leaving!", "tipFa": "ضدش: get off. برای ماشین و تاکسی: get in / get out." },
+    { "id": "phrasal-turn-up", "text": "turn up", "meaningFa": "صدا رو زیاد کردن", "partOfSpeech": "phrasal verb", "phonetic": "/tɜːn ˈʌp/", "example": "Can you turn up the radio? I can't hear the news.", "tipFa": "با ضمیر وسطش: turn it up." },
+    { "id": "phrasal-turn-down", "text": "turn down", "meaningFa": "صدا رو کم کردن؛ رد کردن (پیشنهاد)", "partOfSpeech": "phrasal verb", "phonetic": "/tɜːn ˈdaʊn/", "example": "Please turn down your music. I'm trying to work.", "tipFa": "دو معنی داره: turn down the TV (کم کردن صدا) و turn down a job (رد کردن پیشنهاد)." },
+    { "id": "phrasal-go-on", "text": "go on", "meaningFa": "ادامه دادن", "partOfSpeech": "phrasal verb", "phonetic": "/ɡəʊ ˈɒn/", "example": "Don't stop! Go on with your story.", "tipFa": "go on + ing: She went on working until midnight." },
+    { "id": "phrasal-go-off", "text": "go off", "meaningFa": "رفتن (و ترک کردن جایی)", "partOfSpeech": "phrasal verb", "phonetic": "/ɡəʊ ˈɒf/", "example": "Don't go off without saying goodbye.", "tipFa": "گذشته: went off." },
+    { "id": "phrasal-come-on", "text": "come on", "meaningFa": "زود باش! یالا!", "partOfSpeech": "phrase", "phonetic": "/kʌm ˈɒn/", "example": "Come on! We're going to miss the train!", "tipFa": "برای تشویق هم هست: Come on, you can do it!" }
+  ],
+  "gapQuestions": [
+    { "id": "phrasal-gap-1", "sentence": "The train is here. Let's ___.", "answer": "get on", "hintFa": "سوار شو." },
+    { "id": "phrasal-gap-2", "sentence": "I love this song! ___ the radio!", "answer": "turn up", "hintFa": "صداش رو زیاد کن." },
+    { "id": "phrasal-gap-3", "sentence": "They offered her a job in Dubai, but she decided to ___ the offer.", "answer": "turn down", "hintFa": "رد کردن." },
+    { "id": "phrasal-gap-4", "sentence": "Sorry, I stopped you. Please ___. What happened next?", "answer": "go on", "hintFa": "ادامه بده." },
+    { "id": "phrasal-gap-5", "sentence": "___! It's time to get up. You'll be late for school!", "answer": "come on", "hintFa": "زود باش!" },
+    { "id": "phrasal-gap-6", "sentence": "Don't ___ without your keys again!", "answer": "go off", "hintFa": "نرو." }
+  ]
+}

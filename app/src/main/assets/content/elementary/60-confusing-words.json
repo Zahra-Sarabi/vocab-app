@@ -1,0 +1,32 @@
+{
+  "id": "elementary-60-confusing-words",
+  "order": 60,
+  "title": "Words you may confuse",
+  "titleFa": "کلمه‌هایی که قاطی می‌شن",
+  "illustration": "brain",
+  "color": "pink",
+  "descriptionFa": "کلمه‌هایی که صدا یا معنی‌شون شبیه همه و راحت با هم اشتباه می‌شن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "confuse-quite", "text": "quite", "meaningFa": "نسبتاً، تا حدی", "partOfSpeech": "adverb", "phonetic": "/kwaɪt/", "example": "This book is quite good, but not great.", "tipFa": "quite (کوایت، یک بخش) = نسبتاً. quiet (کوایِت، دو بخش) = ساکت." },
+    { "id": "confuse-loose", "text": "loose", "meaningFa": "گشاد، شل", "partOfSpeech": "adjective", "phonetic": "/luːs/", "example": "These trousers are too loose. I need a smaller size.", "tipFa": "loose (لوس) = گشاد. lose (لوز) = گم کردن." },
+    { "id": "confuse-fell", "text": "fell", "meaningFa": "افتاد (گذشته‌ی fall)", "partOfSpeech": "verb", "phonetic": "/fel/", "example": "Yesterday I fell and broke my arm.", "tipFa": "fell = گذشته‌ی fall (افتادن). felt = گذشته‌ی feel (احساس کردن)." },
+    { "id": "confuse-felt", "text": "felt", "meaningFa": "احساس کرد (گذشته‌ی feel)", "partOfSpeech": "verb", "phonetic": "/felt/", "example": "I felt ill yesterday, but I feel OK today." },
+    { "id": "confuse-lend", "text": "lend", "meaningFa": "قرض دادن", "partOfSpeech": "verb", "phonetic": "/lend/", "example": "Can you lend me your bike for an hour?", "tipFa": "lend = قرض دادن (تو می‌دی). borrow = قرض گرفتن (تو می‌گیری). گذشته: lent." },
+    { "id": "confuse-borrow", "text": "borrow", "meaningFa": "قرض گرفتن", "partOfSpeech": "verb", "phonetic": "/ˈbɒr.əʊ/", "example": "Can I borrow your camera for the weekend?", "tipFa": "borrow something from someone." },
+    { "id": "confuse-control", "text": "control", "meaningFa": "کنترل کردن، هدایت کردن", "partOfSpeech": "verb", "phonetic": "/kənˈtrəʊl/", "example": "We use the mouse to control the computer.", "tipFa": "پاسپورت رو check می‌کنن، نه control." },
+    { "id": "confuse-expect", "text": "expect", "meaningFa": "انتظار داشتن (احتمال دادن)", "partOfSpeech": "verb", "phonetic": "/ɪkˈspekt/", "example": "I haven't studied, so I expect I'll fail the exam.", "tipFa": "hope = آرزو داری بشه. expect = فکر می‌کنی احتمالاً می‌شه. wait for = منتظر موندن." },
+    { "id": "confuse-night", "text": "night", "meaningFa": "شب (بعد از حدود ۱۰)", "partOfSpeech": "noun", "phonetic": "/naɪt/", "example": "I couldn't sleep last night.", "tipFa": "afternoon (۱۲ تا ۶) → evening (۶ تا ۱۰) → night. at night، نه in the night." }
+  ],
+  "gapQuestions": [
+    { "id": "confuse-gap-1", "sentence": "It's ___ cold today. Take a jacket.", "answer": "quite", "hintFa": "نسبتاً." },
+    { "id": "confuse-gap-2", "sentence": "Do you have this skirt in a smaller size? This one is too ___.", "answer": "loose", "hintFa": "گشاد." },
+    { "id": "confuse-gap-3", "sentence": "She ___ and broke her leg. She had to go to hospital.", "answer": "fell", "hintFa": "افتاد." },
+    { "id": "confuse-gap-4", "sentence": "I ___ tired this morning, but I'm OK now.", "answer": "felt", "hintFa": "احساس کردم." },
+    { "id": "confuse-gap-5", "sentence": "I need some money. Can you ___ me 100,000 tomans?", "answer": "lend", "hintFa": "قرض بدی." },
+    { "id": "confuse-gap-6", "sentence": "Can I ___ your pen? I'll give it back after the lesson.", "answer": "borrow", "hintFa": "قرض بگیرم." },
+    { "id": "confuse-gap-7", "sentence": "You can ___ the TV with this remote.", "answer": "control", "hintFa": "کنترل کردن." },
+    { "id": "confuse-gap-8", "sentence": "The sky is grey. I ___ it will rain later.", "answer": "expect", "hintFa": "احتمال می‌دم." },
+    { "id": "confuse-gap-9", "sentence": "Owls sleep in the day and hunt at ___.", "answer": "night", "hintFa": "شب." }
+  ]
+}

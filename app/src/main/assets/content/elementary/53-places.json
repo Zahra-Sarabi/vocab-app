@@ -1,0 +1,39 @@
+{
+  "id": "elementary-53-places",
+  "order": 53,
+  "title": "Places",
+  "titleFa": "مکان و موقعیت",
+  "illustration": "home",
+  "color": "butter",
+  "descriptionFa": "here و there، بالا و پایین و وسط، چپ و راست، و خونه یا بیرون یا خارج.",
+  "referenceRows": [],
+  "words": [
+    { "id": "place-here", "text": "here", "meaningFa": "اینجا", "partOfSpeech": "adverb", "phonetic": "/hɪər/", "example": "Sit here, next to me.", "tipFa": "بدون to: come here، نه come to here." },
+    { "id": "place-there", "text": "there", "meaningFa": "اونجا", "partOfSpeech": "adverb", "phonetic": "/ðeər/", "example": "Have you been to Yazd? I'm going there in April.", "tipFa": "بدون to: go there." },
+    { "id": "place-everywhere", "text": "everywhere", "meaningFa": "همه‌جا", "partOfSpeech": "adverb", "phonetic": "/ˈev.ri.weər/", "example": "There are books and papers everywhere in my room." },
+    { "id": "place-the-top-of", "text": "the top of", "meaningFa": "بالای، نوکِ", "partOfSpeech": "phrase", "phonetic": "/ðə ˈtɒp əv/", "example": "We climbed to the top of the mountain." },
+    { "id": "place-the-middle-of", "text": "the middle of", "meaningFa": "وسطِ", "partOfSpeech": "phrase", "phonetic": "/ðə ˈmɪd.əl əv/", "example": "Don't stand in the middle of the road!" },
+    { "id": "place-the-bottom-of", "text": "the bottom of", "meaningFa": "تهِ، پایینِ", "partOfSpeech": "phrase", "phonetic": "/ðə ˈbɒt.əm əv/", "example": "There's some sugar at the bottom of the glass." },
+    { "id": "place-the-front-of", "text": "the front of", "meaningFa": "جلوی (قسمت جلویی)", "partOfSpeech": "phrase", "phonetic": "/ðə ˈfrʌnt əv/", "example": "I always sit at the front of the class.", "tipFa": "the front of = بخش جلویی خود چیز. in front of = روبه‌روی چیزی." },
+    { "id": "place-the-back-of", "text": "the back of", "meaningFa": "عقبِ (قسمت عقبی)", "partOfSpeech": "phrase", "phonetic": "/ðə ˈbæk əv/", "example": "The children are sitting in the back of the car." },
+    { "id": "place-the-beginning-of", "text": "the beginning of", "meaningFa": "اولِ، ابتدای", "partOfSpeech": "phrase", "phonetic": "/ðə bɪˈɡɪn.ɪŋ əv/", "example": "Unit 3 is at the beginning of the book." },
+    { "id": "place-on-the-left", "text": "on the left", "meaningFa": "سمت چپ", "partOfSpeech": "phrase", "phonetic": "/ɒn ðə ˈleft/", "example": "The cinema is on the left, next to the bank." },
+    { "id": "place-on-the-right", "text": "on the right", "meaningFa": "سمت راست", "partOfSpeech": "phrase", "phonetic": "/ɒn ðə ˈraɪt/", "example": "In Iran, cars drive on the right." },
+    { "id": "place-at-home", "text": "at home", "meaningFa": "خونه (توی خونه)", "partOfSpeech": "phrase", "phonetic": "/ət ˈhəʊm/", "example": "Is your mother at home?", "tipFa": "بدون the: at home، نه at the home." },
+    { "id": "place-out", "text": "out", "meaningFa": "بیرون (برای مدت کوتاه)", "partOfSpeech": "adverb", "phonetic": "/aʊt/", "example": "Sorry, she's out. She'll be back in ten minutes." },
+    { "id": "place-away", "text": "away", "meaningFa": "نیست، سفره (برای مدت طولانی‌تر)", "partOfSpeech": "adverb", "phonetic": "/əˈweɪ/", "example": "My neighbours are away for two weeks." },
+    { "id": "place-abroad", "text": "abroad", "meaningFa": "خارج از کشور", "partOfSpeech": "adverb", "phonetic": "/əˈbrɔːd/", "example": "My brother works abroad, in Canada.", "tipFa": "بدون to: go abroad، نه go to abroad." }
+  ],
+  "gapQuestions": [
+    { "id": "place-gap-1", "sentence": "I opened the washing machine too soon. Now there's water ___!", "answer": "everywhere", "hintFa": "همه‌جا." },
+    { "id": "place-gap-2", "sentence": "Come ___, Mina! Don't go near the road!", "answer": "here", "hintFa": "اینجا." },
+    { "id": "place-gap-3", "sentence": "I'd like to live ___ and learn about a new country.", "answer": "abroad", "hintFa": "خارج." },
+    { "id": "place-gap-4", "sentence": "Is Lily here? No, she's ___ at the shops, but she'll be back soon.", "answer": "out", "hintFa": "بیرون، کوتاه‌مدت." },
+    { "id": "place-gap-5", "sentence": "The keys fell to ___ the swimming pool.", "answer": "the bottom of", "hintFa": "تهِ." },
+    { "id": "place-gap-6", "sentence": "I can't see the board. I'm sitting at ___ the class.", "answer": "the back of", "hintFa": "عقبِ." },
+    { "id": "place-gap-7", "sentence": "There's a small island in ___ the lake.", "answer": "the middle of", "hintFa": "وسطِ." },
+    { "id": "place-gap-8", "sentence": "Turn left at the bank and the hotel is ___, opposite the park.", "answer": "on the right", "hintFa": "سمت راست." },
+    { "id": "place-gap-9", "sentence": "I'm going ___ tomorrow. I'm staying with my aunt in Mashhad for a week.", "answer": "away", "hintFa": "سفر، بلندمدت." },
+    { "id": "place-gap-10", "sentence": "I'm tired. I want to stay ___ tonight and watch a film.", "answer": "at home", "hintFa": "توی خونه." }
+  ]
+}

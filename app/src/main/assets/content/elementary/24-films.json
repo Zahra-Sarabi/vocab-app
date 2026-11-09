@@ -1,0 +1,41 @@
+{
+  "id": "elementary-24-films",
+  "order": 24,
+  "title": "Films",
+  "titleFa": "فیلم‌ها",
+  "illustration": "star",
+  "color": "lilac",
+  "descriptionFa": "انواع فیلم، آدم‌های سینما، و حرف زدن درباره‌ی فیلمی که دیدی.",
+  "referenceRows": [],
+  "words": [
+    { "id": "film-western", "text": "western", "meaningFa": "وسترن (فیلم کابویی)", "partOfSpeech": "noun", "phonetic": "/ˈwes.tən/", "example": "My grandfather's favourite film is an old western." },
+    { "id": "film-cartoon", "text": "cartoon", "meaningFa": "کارتون، انیمیشن", "partOfSpeech": "noun", "phonetic": "/kɑːˈtuːn/", "example": "The children are watching a cartoon about a talking dog." },
+    { "id": "film-horror-film", "text": "horror film", "meaningFa": "فیلم ترسناک", "partOfSpeech": "noun", "phonetic": "/ˈhɒr.ə ˌfɪlm/", "example": "I can't watch a horror film alone at night." },
+    { "id": "film-comedy", "text": "comedy", "meaningFa": "فیلم کمدی", "partOfSpeech": "noun", "phonetic": "/ˈkɒm.ə.di/", "example": "This comedy is so funny that I cried." },
+    { "id": "film-thriller", "text": "thriller", "meaningFa": "فیلم هیجانی و جنایی", "partOfSpeech": "noun", "phonetic": "/ˈθrɪl.ər/", "example": "The thriller was so exciting that I couldn't stop watching." },
+    { "id": "film-action-film", "text": "action film", "meaningFa": "فیلم اکشن", "partOfSpeech": "noun", "phonetic": "/ˈæk.ʃən ˌfɪlm/", "example": "There are lots of car chases in this action film." },
+    { "id": "film-science-fiction-film", "text": "science fiction film", "meaningFa": "فیلم علمی‌تخیلی", "partOfSpeech": "noun", "phonetic": "/ˌsaɪ.əns ˈfɪk.ʃən ˌfɪlm/", "example": "In this science fiction film, people live on Mars.", "tipFa": "کوتاهش: sci-fi film." },
+    { "id": "film-musical", "text": "musical", "meaningFa": "فیلم موزیکال", "partOfSpeech": "noun", "phonetic": "/ˈmjuː.zɪ.kəl/", "example": "The Sound of Music is a famous musical." },
+    { "id": "film-romantic-comedy", "text": "romantic comedy", "meaningFa": "کمدی عاشقانه", "partOfSpeech": "noun", "phonetic": "/rəʊˌmæn.tɪk ˈkɒm.ə.di/", "example": "We watched a romantic comedy about two students who fall in love." },
+    { "id": "film-film-star", "text": "film star", "meaningFa": "ستاره‌ی سینما", "partOfSpeech": "noun", "phonetic": "/ˈfɪlm ˌstɑːr/", "example": "Golshifteh Farahani is an Iranian film star.", "tipFa": "بازیگر مرد: actor، بازیگر زن: actress (یا actor)." },
+    { "id": "film-director", "text": "director", "meaningFa": "کارگردان", "partOfSpeech": "noun", "phonetic": "/daɪˈrek.tər/", "example": "Asghar Farhadi is a famous Iranian director." },
+    { "id": "film-play", "text": "play", "meaningFa": "نقش (کسی رو) بازی کردن", "partOfSpeech": "verb", "phonetic": "/pleɪ/", "example": "Who is going to play the hero in the new film?", "tipFa": "بازی کردن در یه فیلم: be in a film: She was in the new Bond film." },
+    { "id": "film-latest", "text": "latest", "meaningFa": "جدیدترین", "partOfSpeech": "adjective", "phonetic": "/ˈleɪ.tɪst/", "example": "Have you seen the latest Farhadi film?" },
+    { "id": "film-go-to-the-cinema", "text": "go to the cinema", "meaningFa": "سینما رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ tə ðə ˈsɪn.ə.mə/", "example": "We go to the cinema once a month.", "tipFa": "با the: go to the cinema، نه go to cinema. آمریکایی‌ها go to the movies می‌گن." },
+    { "id": "film-whats-on", "text": "what's on", "meaningFa": "چی نشون می‌ده؟ (برنامه‌ی سینما یا تلویزیون)", "partOfSpeech": "phrase", "phonetic": "/wɒts ˈɒn/", "example": "Let's check what's on at the cinema on Friday.", "tipFa": "What's on at the cinema? نه What's on the cinema?" },
+    { "id": "film-enjoy", "text": "enjoy", "meaningFa": "لذت بردن", "partOfSpeech": "verb", "phonetic": "/ɪnˈdʒɔɪ/", "example": "Did you enjoy the film?", "tipFa": "همیشه با مفعول: I enjoyed it، نه فقط I enjoyed." },
+    { "id": "film-boring", "text": "boring", "meaningFa": "خسته‌کننده، کسل‌کننده", "partOfSpeech": "adjective", "phonetic": "/ˈbɔː.rɪŋ/", "example": "The film was so boring that I fell asleep.", "tipFa": "فیلم boring هست، ولی من bored هستم (حوصله‌م سر رفته)." }
+  ],
+  "gapQuestions": [
+    { "id": "film-gap-1", "sentence": "I couldn't sleep after that ___. It was so scary!", "answer": "horror film", "hintFa": "فیلم ترسناک." },
+    { "id": "film-gap-2", "sentence": "It was a ___, so we laughed all the time.", "answer": "comedy", "hintFa": "فیلم خنده‌دار." },
+    { "id": "film-gap-3", "sentence": "In a ___, cowboys ride horses in the American Wild West.", "answer": "western", "hintFa": "فیلم کابویی." },
+    { "id": "film-gap-4", "sentence": "My favourite ___ is about a trip to a planet far from Earth.", "answer": "science fiction film", "hintFa": "علمی‌تخیلی." },
+    { "id": "film-gap-5", "sentence": "Who was the ___ of this film? It's beautifully made.", "answer": "director", "hintFa": "کارگردان." },
+    { "id": "film-gap-6", "sentence": "I didn't ___ the film. It was much too long.", "answer": "enjoy", "hintFa": "لذت بردن." },
+    { "id": "film-gap-7", "sentence": "In a ___, the actors often sing instead of talking.", "answer": "musical", "hintFa": "پر از آهنگ." },
+    { "id": "film-gap-8", "sentence": "The film was so ___ that half the people left early.", "answer": "boring", "hintFa": "خسته‌کننده." },
+    { "id": "film-gap-9", "sentence": "I don't know ___ at the cinema this week. Let's look online.", "answer": "what's on", "hintFa": "چی نشون می‌ده." },
+    { "id": "film-gap-10", "sentence": "Who is going to ___ the hero in the next Bond film?", "answer": "play", "hintFa": "نقش بازی کردن." }
+  ]
+}

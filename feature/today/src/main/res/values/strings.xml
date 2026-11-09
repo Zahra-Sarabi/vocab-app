@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="today_greeting">سلام!</string>
+    <string name="today_subtitle">آماده‌ی تمرین امروزی؟</string>
+    <string name="today_streak">%1$d روز</string>
+    <string name="today_settings">تنظیمات</string>
+    <string name="today_goal">هدف امروز</string>
+    <string name="today_goal_progress">%1$d از %2$d لغت جدید</string>
+    <string name="today_goal_done">هدف امروز کامل شد. آفرین!</string>
+    <string name="today_review">مرور امروز</string>
+    <string name="today_review_due">%1$d لغت منتظر مرورن · حدود %2$d دقیقه</string>
+    <string name="today_review_done">مرور امروز انجام شد</string>
+    <string name="today_review_start">شروع مرور</string>
+    <string name="today_continue">ادامه‌ی درس</string>
+    <string name="today_all_units">همه‌ی فصل‌ها</string>
+    <string name="today_unit_title">فصل %1$d · %2$s</string>
+    <string name="today_unit_words">%1$d لغت</string>
+    <string name="today_topics">موضوع‌ها</string>
+    <string name="today_backup_banner">از آخرین پشتیبان مدتی گذشته. از پیشرفتت پشتیبان بگیر.</string>
+    <string name="today_backup_first">هنوز از پیشرفتت پشتیبان نگرفتی. یه نسخه بگیر که با عوض کردن گوشی از دست نره.</string>
+    <string name="today_backup_action">پشتیبان‌گیری</string>
+</resources>

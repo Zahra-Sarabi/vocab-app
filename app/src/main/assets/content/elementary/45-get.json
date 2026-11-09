@@ -1,0 +1,34 @@
+{
+  "id": "elementary-45-get",
+  "order": 45,
+  "title": "Get / got / got",
+  "titleFa": "عبارت‌های get",
+  "illustration": "sparkles",
+  "color": "butter",
+  "descriptionFa": "get برای تغییر حالت (شدن)، get به معنی گرفتن و خریدن، و get برای رسیدن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "get-got", "text": "got", "meaningFa": "گرفت، شد (گذشته‌ی get)", "partOfSpeech": "verb", "phonetic": "/ɡɒt/", "example": "I got a new phone for my birthday.", "tipFa": "get / got / got." },
+    { "id": "get-get", "text": "get", "meaningFa": "گرفتن، خریدن، پیدا کردن", "partOfSpeech": "verb", "phonetic": "/ɡet/", "example": "I'm going to the shop to get some bread.", "tipFa": "get a taxi, get a doctor, get a stamp: یعنی بگیر، بخر یا بیار." },
+    { "id": "get-getting-dark", "text": "getting dark", "meaningFa": "داره تاریک می‌شه", "partOfSpeech": "phrase", "phonetic": "/ˌɡet.ɪŋ ˈdɑːk/", "example": "It's getting dark. Let's go home.", "tipFa": "get + صفت = شدن: get tired, get wet, get cold." },
+    { "id": "get-get-better", "text": "get better", "meaningFa": "بهتر شدن (حال بیمار)", "partOfSpeech": "verb phrase", "phonetic": "/ɡet ˈbet.ər/", "example": "I hope you get better soon!", "tipFa": "She's getting better = داره بهتر می‌شه." },
+    { "id": "get-get-tired", "text": "get tired", "meaningFa": "خسته شدن", "partOfSpeech": "verb phrase", "phonetic": "/ɡet ˈtaɪəd/", "example": "I always get tired after a long day at school." },
+    { "id": "get-get-wet", "text": "get wet", "meaningFa": "خیس شدن", "partOfSpeech": "verb phrase", "phonetic": "/ɡet ˈwet/", "example": "Take an umbrella or you'll get wet." },
+    { "id": "get-get-a-job", "text": "get a job", "meaningFa": "کار پیدا کردن", "partOfSpeech": "verb phrase", "phonetic": "/ɡet ə ˈdʒɒb/", "example": "After university, I want to get a job in a bank." },
+    { "id": "get-get-to", "text": "get to", "meaningFa": "رسیدن به", "partOfSpeech": "verb phrase", "phonetic": "/ˈɡet tuː/", "example": "Call me when you get to Tehran.", "tipFa": "How can I get to the airport? = چطور برم فرودگاه؟" },
+    { "id": "get-get-back", "text": "get back", "meaningFa": "برگشتن", "partOfSpeech": "phrasal verb", "phonetic": "/ɡet ˈbæk/", "example": "I'll call you when I get back from Kish." },
+    { "id": "get-get-home", "text": "get home", "meaningFa": "به خونه رسیدن", "partOfSpeech": "verb phrase", "phonetic": "/ɡet ˈhəʊm/", "example": "When I get home, I always have a cup of tea.", "tipFa": "بدون to: get home و get there، نه get to home." }
+  ],
+  "gapQuestions": [
+    { "id": "get-gap-1", "sentence": "The sun is going down. It's ___.", "answer": "getting dark", "hintFa": "داره تاریک می‌شه." },
+    { "id": "get-gap-2", "sentence": "She was very ill last week, but now she's starting to ___.", "answer": "get better", "hintFa": "بهتر شدن." },
+    { "id": "get-gap-3", "sentence": "It's raining and I don't have an umbrella. I'm going to ___!", "answer": "get wet", "hintFa": "خیس شدن." },
+    { "id": "get-gap-4", "sentence": "My brother finished university and wants to ___ as an engineer.", "answer": "get a job", "hintFa": "کار پیدا کردن." },
+    { "id": "get-gap-5", "sentence": "This plane will ___ Paris at half past twelve.", "answer": "get to", "hintFa": "رسیدن به." },
+    { "id": "get-gap-6", "sentence": "I usually leave work at six and ___ at half past six.", "answer": "get home", "hintFa": "به خونه رسیدن." },
+    { "id": "get-gap-7", "sentence": "Can you ___ me a newspaper from the shop?", "answer": "get", "hintFa": "بگیر، بخر." },
+    { "id": "get-gap-8", "sentence": "My son is in London. He won't ___ until July.", "answer": "get back", "hintFa": "برگشتن." },
+    { "id": "get-gap-9", "sentence": "I studied for five hours and I ___ very tired.", "answer": "got", "hintFa": "گذشته‌ی get." },
+    { "id": "get-gap-10", "sentence": "Small children ___ quickly on long car journeys.", "answer": "get tired", "hintFa": "خسته شدن." }
+  ]
+}

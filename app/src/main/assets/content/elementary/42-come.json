@@ -1,0 +1,34 @@
+{
+  "id": "elementary-42-come",
+  "order": 42,
+  "title": "Come / came / come",
+  "titleFa": "عبارت‌های come",
+  "illustration": "home",
+  "color": "lilac",
+  "descriptionFa": "فرق come و go، و عبارت‌های پرکاربرد با come.",
+  "referenceRows": [],
+  "words": [
+    { "id": "come-come", "text": "come", "meaningFa": "اومدن (به سمت گوینده)", "partOfSpeech": "verb", "phonetic": "/kʌm/", "example": "Can you come to my house on Friday?", "tipFa": "come = به سمت اینجا (جایی که گوینده هست). go = از اینجا به اونجا." },
+    { "id": "come-came", "text": "came", "meaningFa": "اومد (گذشته‌ی come)", "partOfSpeech": "verb", "phonetic": "/keɪm/", "example": "My cousins came to see us last week.", "tipFa": "سه شکل: come / came / come." },
+    { "id": "come-come-in", "text": "come in", "meaningFa": "بیا تو، وارد شدن", "partOfSpeech": "phrasal verb", "phonetic": "/kʌm ˈɪn/", "example": "Someone knocked on the door and I said, 'Come in!'", "tipFa": "با اسم: come into the room." },
+    { "id": "come-come-out-of", "text": "come out of", "meaningFa": "بیرون اومدن از", "partOfSpeech": "verb phrase", "phonetic": "/kʌm ˈaʊt əv/", "example": "I waited for an hour, but she didn't come out of the shop.", "tipFa": "برای دستگاه هم هست: The ticket comes out of the machine." },
+    { "id": "come-come-back", "text": "come back", "meaningFa": "برگشتن (به اینجا)", "partOfSpeech": "phrasal verb", "phonetic": "/kʌm ˈbæk/", "example": "When are you going to come back from Turkey?", "tipFa": "معمولاً با from: come back from Italy." },
+    { "id": "come-come-home", "text": "come home", "meaningFa": "خونه اومدن", "partOfSpeech": "verb phrase", "phonetic": "/kʌm ˈhəʊm/", "example": "What time did you come home last night?", "tipFa": "بدون to: come home، نه come to home." },
+    { "id": "come-come-from", "text": "come from", "meaningFa": "اهل … بودن", "partOfSpeech": "verb phrase", "phonetic": "/ˈkʌm frɒm/", "example": "Where do you come from? I come from Iran.", "tipFa": "I come from Iran، نه I'm coming from Iran." },
+    { "id": "come-come-along", "text": "come along", "meaningFa": "همراه (ما) اومدن", "partOfSpeech": "phrasal verb", "phonetic": "/kʌm əˈlɒŋ/", "example": "We're going to the cinema. Do you want to come along?" },
+    { "id": "come-come-and-see-me", "text": "come and see me", "meaningFa": "بیا بهم سر بزن", "partOfSpeech": "phrase", "phonetic": "/kʌm ən ˈsiː mi/", "example": "Come and see me when you're in Shiraz." },
+    { "id": "come-come-here", "text": "come here", "meaningFa": "بیا اینجا", "partOfSpeech": "phrase", "phonetic": "/kʌm ˈhɪər/", "example": "Come here, please. I want to show you something.", "tipFa": "بدون to: come here، نه come to here." }
+  ],
+  "gapQuestions": [
+    { "id": "come-gap-1", "sentence": "The door is open. Please ___ and sit down.", "answer": "come in", "hintFa": "بیا تو." },
+    { "id": "come-gap-2", "sentence": "She went to Mashhad for a week. She ___ yesterday.", "answer": "came", "hintFa": "گذشته‌ی come." },
+    { "id": "come-gap-3", "sentence": "I'm leaving for London tomorrow, and I'll ___ in two weeks.", "answer": "come back", "hintFa": "برگشتن." },
+    { "id": "come-gap-4", "sentence": "My father usually doesn't ___ until eight in the evening.", "answer": "come home", "hintFa": "خونه اومدن." },
+    { "id": "come-gap-5", "sentence": "Ali speaks Turkish because his parents ___ Tabriz.", "answer": "come from", "hintFa": "اهل جایی بودن." },
+    { "id": "come-gap-6", "sentence": "We're having a picnic in the park. Do you want to ___?", "answer": "come along", "hintFa": "همراه ما بیا." },
+    { "id": "come-gap-7", "sentence": "I'm in the office all day tomorrow. ___ if you have any questions.", "answer": "come and see me", "hintFa": "بیا بهم سر بزن." },
+    { "id": "come-gap-8", "sentence": "Put your card in, and the money will ___ the machine.", "answer": "come out of", "hintFa": "بیرون اومدن از." },
+    { "id": "come-gap-9", "sentence": "___! Look at this beautiful bird in the garden!", "answer": "come here", "hintFa": "بیا اینجا." },
+    { "id": "come-gap-10", "sentence": "Can you ___ to my birthday party on Thursday?", "answer": "come", "hintFa": "اومدن." }
+  ]
+}

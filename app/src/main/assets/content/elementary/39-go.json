@@ -1,0 +1,38 @@
+{
+  "id": "elementary-39-go",
+  "order": 39,
+  "title": "Go / went / gone",
+  "titleFa": "عبارت‌های go",
+  "illustration": "travel",
+  "color": "butter",
+  "descriptionFa": "go با وسیله و حرف اضافه، برنامه‌ی آینده با going to، و فعالیت‌های go + ing.",
+  "referenceRows": [],
+  "words": [
+    { "id": "go-went", "text": "went", "meaningFa": "رفت (گذشته‌ی go)", "partOfSpeech": "verb", "phonetic": "/went/", "example": "We went to Shiraz last spring.", "tipFa": "سه شکل: go / went / gone. She has gone home." },
+    { "id": "go-go-by", "text": "go by", "meaningFa": "با (وسیله‌ای) رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ baɪ/", "example": "I usually go by bus, but today I'm walking.", "tipFa": "by + وسیله بدون the: by car, by train, by bike." },
+    { "id": "go-go-into", "text": "go into", "meaningFa": "رفتن داخلِ", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈɪn.tuː/", "example": "Don't go into my room without asking!" },
+    { "id": "go-go-out-of", "text": "go out of", "meaningFa": "بیرون رفتن از", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈaʊt əv/", "example": "Please go out of the room quietly.", "tipFa": "go out (بدون of) یعنی «بیرون رفتن برای تفریح»: We go out on Fridays." },
+    { "id": "go-go-up", "text": "go up", "meaningFa": "بالا رفتن (از)", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈʌp/", "example": "The lift is broken, so we have to go up the stairs." },
+    { "id": "go-go-down", "text": "go down", "meaningFa": "پایین رفتن (از)", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈdaʊn/", "example": "Go down this street and turn left at the bank." },
+    { "id": "go-going-to", "text": "going to", "meaningFa": "قصد داشتن (برنامه‌ی آینده)", "partOfSpeech": "phrase", "phonetic": "/ˈɡəʊ.ɪŋ tuː/", "example": "I'm going to learn Spanish next year.", "tipFa": "be going to + فعل ساده: She's going to study maths." },
+    { "id": "go-go-shopping", "text": "go shopping", "meaningFa": "خرید رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈʃɒp.ɪŋ/", "example": "Let's go shopping at the bazaar on Friday.", "tipFa": "go shopping، نه go to shopping یا go for shopping." },
+    { "id": "go-go-dancing", "text": "go dancing", "meaningFa": "برای رقصیدن بیرون رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈdɑːn.sɪŋ/", "example": "On Saturday nights, they like to go dancing." },
+    { "id": "go-go-sightseeing", "text": "go sightseeing", "meaningFa": "گشت و دیدن جاهای دیدنی", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈsaɪtˌsiː.ɪŋ/", "example": "We want to go sightseeing in Isfahan." },
+    { "id": "go-go-fishing", "text": "go fishing", "meaningFa": "ماهیگیری رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈfɪʃ.ɪŋ/", "example": "My grandfather and I go fishing on the Caspian." },
+    { "id": "go-go-home", "text": "go home", "meaningFa": "خونه رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈhəʊm/", "example": "It's late. I want to go home.", "tipFa": "بدون to: go home، نه go to home یا go at home." },
+    { "id": "go-go-there", "text": "go there", "meaningFa": "به اونجا رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ ˈðeər/", "example": "I love Kish. I go there every summer.", "tipFa": "بدون to: go there، نه go to there. همین‌طور go somewhere / anywhere." },
+    { "id": "go-go-away", "text": "go away", "meaningFa": "رفتن، دور شدن", "partOfSpeech": "phrasal verb", "phonetic": "/ɡəʊ əˈweɪ/", "example": "Go away! I'm trying to sleep.", "tipFa": "برای سفر هم هست: We're going away for the weekend." }
+  ],
+  "gapQuestions": [
+    { "id": "go-gap-1", "sentence": "I ___ metro because it's faster than the bus.", "answer": "go by", "hintFa": "با وسیله رفتن." },
+    { "id": "go-gap-2", "sentence": "Last summer we ___ to Tabriz to see my grandparents.", "answer": "went", "hintFa": "گذشته‌ی go." },
+    { "id": "go-gap-3", "sentence": "Next year I'm ___ study in Germany.", "answer": "going to", "hintFa": "برنامه‌ی آینده." },
+    { "id": "go-gap-4", "sentence": "The party's finished. Let's ___.", "answer": "go home", "hintFa": "خونه بریم." },
+    { "id": "go-gap-5", "sentence": "My sister loves to ___ at the mall on Thursdays.", "answer": "go shopping", "hintFa": "خرید رفتن." },
+    { "id": "go-gap-6", "sentence": "In Rome, we want to ___ and see the Colosseum.", "answer": "go sightseeing", "hintFa": "دیدن جاهای دیدنی." },
+    { "id": "go-gap-7", "sentence": "The lift wasn't working, so we had to ___ ten floors on foot.", "answer": "go up", "hintFa": "بالا رفتن." },
+    { "id": "go-gap-8", "sentence": "My uncle likes to ___ at the lake. Sometimes he catches big fish.", "answer": "go fishing", "hintFa": "ماهیگیری." },
+    { "id": "go-gap-9", "sentence": "I've been to Mashhad many times. I ___ every year.", "answer": "go there", "hintFa": "به اونجا رفتن." },
+    { "id": "go-gap-10", "sentence": "___ and leave me alone!", "answer": "go away", "hintFa": "برو کنار." }
+  ]
+}

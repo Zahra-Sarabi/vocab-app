@@ -1,0 +1,34 @@
+{
+  "id": "elementary-40-do",
+  "order": 40,
+  "title": "Do / did / done",
+  "titleFa": "عبارت‌های do",
+  "illustration": "check",
+  "color": "pink",
+  "descriptionFa": "عبارت‌های پرکاربرد با do برای کارها و فعالیت‌ها، و جواب‌های کوتاه.",
+  "referenceRows": [],
+  "words": [
+    { "id": "do-did", "text": "did", "meaningFa": "انجام داد (گذشته‌ی do)", "partOfSpeech": "verb", "phonetic": "/dɪd/", "example": "I did all my homework before dinner.", "tipFa": "سه شکل: do / did / done. سؤال گذشته هم با did: Did you like the film?" },
+    { "id": "do-what-are-you-doing", "text": "what are you doing", "meaningFa": "داری چی کار می‌کنی؟", "partOfSpeech": "phrase", "phonetic": "/wɒt ə juː ˈduː.ɪŋ/", "example": "What are you doing? I'm cooking dinner.", "tipFa": "با What do you do? (شغلت چیه؟) فرق داره." },
+    { "id": "do-dont-do-that", "text": "don't do that", "meaningFa": "این کار رو نکن", "partOfSpeech": "phrase", "phonetic": "/dəʊnt ˈduː ðæt/", "example": "Don't do that! You'll break it." },
+    { "id": "do-so-do-i", "text": "so do I", "meaningFa": "منم همین‌طور", "partOfSpeech": "phrase", "phonetic": "/ˈsəʊ duː aɪ/", "example": "I love chocolate. So do I!", "tipFa": "برای گذشته: So did I. برای منفی: Neither do I (منم نه)." },
+    { "id": "do-do-the-housework", "text": "do the housework", "meaningFa": "کارهای خونه رو انجام دادن", "partOfSpeech": "verb phrase", "phonetic": "/duː ðə ˈhaʊs.wɜːk/", "example": "My husband and I do the housework together.", "tipFa": "housework غیرقابل‌شمارشه: نه houseworks." },
+    { "id": "do-do-the-washing", "text": "do the washing", "meaningFa": "لباس شستن", "partOfSpeech": "verb phrase", "phonetic": "/duː ðə ˈwɒʃ.ɪŋ/", "example": "I do the washing on Mondays.", "tipFa": "the washing = لباس‌ها؛ the washing-up = ظرف‌ها." },
+    { "id": "do-do-the-gardening", "text": "do the gardening", "meaningFa": "کارهای باغچه رو انجام دادن", "partOfSpeech": "verb phrase", "phonetic": "/duː ðə ˈɡɑː.dən.ɪŋ/", "example": "On Friday mornings I do the gardening." },
+    { "id": "do-do-some-exercises", "text": "do some exercises", "meaningFa": "نرمش کردن، چند تا حرکت ورزشی انجام دادن", "partOfSpeech": "verb phrase", "phonetic": "/duː səm ˈek.sə.saɪ.zɪz/", "example": "I do some exercises every morning before work." },
+    { "id": "do-do-business-with", "text": "do business with", "meaningFa": "تجارت کردن با", "partOfSpeech": "verb phrase", "phonetic": "/duː ˈbɪz.nɪs wɪð/", "example": "Our company wants to do business with China.", "tipFa": "business تلفظ: «بیزنِس»، u خونده نمی‌شه." },
+    { "id": "do-do-your-best", "text": "do your best", "meaningFa": "تمام تلاشت رو کردن", "partOfSpeech": "verb phrase", "phonetic": "/duː jɔː ˈbest/", "example": "Don't worry about the exam. Just do your best.", "tipFa": "با ضمیر عوض می‌شه: I'll do my best, she did her best." }
+  ],
+  "gapQuestions": [
+    { "id": "do-gap-1", "sentence": "I'm tired of cleaning the whole house alone! Can you help me ___?", "answer": "do the housework", "hintFa": "کارهای خونه." },
+    { "id": "do-gap-2", "sentence": "I love tennis. ___! Let's play together.", "answer": "so do I", "hintFa": "منم همین‌طور." },
+    { "id": "do-gap-3", "sentence": "Hi Sara, ___? I'm watching a film.", "answer": "what are you doing", "hintFa": "الان داری چی کار می‌کنی؟" },
+    { "id": "do-gap-4", "sentence": "The exam is hard, but ___ and you'll be fine.", "answer": "do your best", "hintFa": "تمام تلاشت رو بکن." },
+    { "id": "do-gap-5", "sentence": "All my clothes are dirty. I need to ___.", "answer": "do the washing", "hintFa": "لباس شستن." },
+    { "id": "do-gap-6", "sentence": "Stop pulling the cat's tail! ___!", "answer": "don't do that", "hintFa": "این کار رو نکن." },
+    { "id": "do-gap-7", "sentence": "Before I go running, I always ___ to warm up.", "answer": "do some exercises", "hintFa": "نرمش." },
+    { "id": "do-gap-8", "sentence": "Many companies in Tabriz ___ Turkey.", "answer": "do business with", "hintFa": "تجارت کردن با." },
+    { "id": "do-gap-9", "sentence": "Yesterday I ___ all my homework in an hour.", "answer": "did", "hintFa": "گذشته‌ی do." },
+    { "id": "do-gap-10", "sentence": "The grass is long and the flowers need water. It's time to ___.", "answer": "do the gardening", "hintFa": "کار باغچه." }
+  ]
+}

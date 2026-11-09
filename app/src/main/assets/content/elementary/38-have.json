@@ -1,0 +1,43 @@
+{
+  "id": "elementary-38-have",
+  "order": 38,
+  "title": "Have / had / had",
+  "titleFa": "عبارت‌های have",
+  "illustration": "calendar",
+  "color": "sky",
+  "descriptionFa": "عبارت‌های پرکاربرد با have، و have got و have to.",
+  "referenceRows": [],
+  "words": [
+    { "id": "have-have-breakfast", "text": "have breakfast", "meaningFa": "صبحانه خوردن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ˈbrek.fəst/", "example": "I have breakfast at seven every morning.", "tipFa": "بدون the: have breakfast، نه have the breakfast." },
+    { "id": "have-have-lunch", "text": "have lunch", "meaningFa": "ناهار خوردن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ˈlʌntʃ/", "example": "Let's have lunch together on Thursday." },
+    { "id": "have-have-dinner", "text": "have dinner", "meaningFa": "شام خوردن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ˈdɪn.ər/", "example": "In Iran, we usually have dinner quite late." },
+    { "id": "have-have-a-party", "text": "have a party", "meaningFa": "مهمونی گرفتن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈpɑː.ti/", "example": "Let's have a party for Mina's birthday." },
+    { "id": "have-have-a-meeting", "text": "have a meeting", "meaningFa": "جلسه داشتن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈmiː.tɪŋ/", "example": "We have a meeting with the manager every Monday." },
+    { "id": "have-have-a-game", "text": "have a game", "meaningFa": "(یه دست) بازی کردن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈɡeɪm/", "example": "Do you want to have a game of chess?", "tipFa": "با of: have a game of tennis." },
+    { "id": "have-have-a-drink", "text": "have a drink", "meaningFa": "یه چیزی نوشیدن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈdrɪŋk/", "example": "Let's have a drink after work.", "tipFa": "have a cup of tea / coffee هم رایجه." },
+    { "id": "have-have-a-bath", "text": "have a bath", "meaningFa": "حموم کردن (توی وان)", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈbɑːθ/", "example": "The children have a bath every evening." },
+    { "id": "have-have-a-swim", "text": "have a swim", "meaningFa": "(یه کم) شنا کردن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈswɪm/", "example": "The water is warm. Let's have a swim!" },
+    { "id": "have-have-a-look", "text": "have a look", "meaningFa": "یه نگاه انداختن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈlʊk/", "example": "Have a look at this photo of my new flat.", "tipFa": "have a look at something." },
+    { "id": "have-have-a-go", "text": "have a go", "meaningFa": "امتحان کردن (یه بار انجام دادن)", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈɡəʊ/", "example": "I've never tried skiing, but I'd like to have a go." },
+    { "id": "have-have-a-good-journey", "text": "have a good journey", "meaningFa": "سفر بخیر", "partOfSpeech": "phrase", "phonetic": "/hæv ə ˌɡʊd ˈdʒɜː.ni/", "example": "Have a good journey! Call us when you arrive." },
+    { "id": "have-have-a-moment", "text": "have a moment", "meaningFa": "یه لحظه وقت داشتن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈməʊ.mənt/", "example": "Do you have a moment? I need your help." },
+    { "id": "have-have-a-word-with", "text": "have a word with", "meaningFa": "چند کلمه صحبت کردن با", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈwɜːd wɪð/", "example": "Can I have a word with you after the lesson?" },
+    { "id": "have-have-my-hair-cut", "text": "have my hair cut", "meaningFa": "موهام رو (پیش آرایشگر) کوتاه کردن", "partOfSpeech": "verb phrase", "phonetic": "/hæv maɪ ˈheə kʌt/", "example": "I need to have my hair cut before the wedding.", "tipFa": "یعنی یکی دیگه کوتاهش می‌کنه، نه خودت. have your hair cut, have her hair cut." },
+    { "id": "have-dont-have-time", "text": "don't have time", "meaningFa": "وقت نداشتن", "partOfSpeech": "verb phrase", "phonetic": "/dəʊnt hæv ˈtaɪm/", "example": "Sorry, I don't have time to talk now.", "tipFa": "don't have the time هم می‌گن." },
+    { "id": "have-have-got", "text": "have got", "meaningFa": "داشتن (خودمونی)", "partOfSpeech": "verb phrase", "phonetic": "/hæv ˈɡɒt/", "example": "We have got ten minutes before the train leaves.", "tipFa": "توی حرف زدن: I've got = I have. سؤال: Have you got a pen?" },
+    { "id": "have-have-to", "text": "have to", "meaningFa": "مجبور بودن، باید", "partOfSpeech": "verb phrase", "phonetic": "/ˈhæf tuː/", "example": "I have to get up at six tomorrow.", "tipFa": "تلفظ: «هَف تو». خودمونی‌ترش: I've got to." },
+    { "id": "have-had-to", "text": "had to", "meaningFa": "مجبور شدم، باید (گذشته)", "partOfSpeech": "verb phrase", "phonetic": "/ˈhæd tuː/", "example": "When I was at school, I had to wear a uniform.", "tipFa": "گذشته بدون got: I had to، نه I had got to." }
+  ],
+  "gapQuestions": [
+    { "id": "have-gap-1", "sentence": "We ___ at one o'clock in the office canteen.", "answer": "have lunch", "hintFa": "ناهار خوردن." },
+    { "id": "have-gap-2", "sentence": "Is your new car outside? Can I ___?", "answer": "have a look", "hintFa": "یه نگاه بندازم؟" },
+    { "id": "have-gap-3", "sentence": "The water's lovely. Let's ___ before dinner.", "answer": "have a swim", "hintFa": "شنا کنیم." },
+    { "id": "have-gap-4", "sentence": "Goodbye, and ___! See you in two weeks.", "answer": "have a good journey", "hintFa": "سفر بخیر." },
+    { "id": "have-gap-5", "sentence": "I'm busy all day, so I ___ to cook.", "answer": "don't have time", "hintFa": "وقت ندارم." },
+    { "id": "have-gap-6", "sentence": "The bus didn't come yesterday, so I ___ walk to work.", "answer": "had to", "hintFa": "مجبور شدم." },
+    { "id": "have-gap-7", "sentence": "Do you ___? I'd like to ask you something.", "answer": "have a moment", "hintFa": "یه لحظه وقت داری؟" },
+    { "id": "have-gap-8", "sentence": "My hair is too long. I'm going to ___ tomorrow.", "answer": "have my hair cut", "hintFa": "پیش آرایشگر." },
+    { "id": "have-gap-9", "sentence": "Do you want to ___ of table tennis?", "answer": "have a game", "hintFa": "یه دست بازی." },
+    { "id": "have-gap-10", "sentence": "All students ___ wear a uniform at this school.", "answer": "have to", "hintFa": "مجبورن." }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="review_title">مرور امروز</string>
+    <string name="review_count">%1$d از %2$d</string>
+    <string name="review_close">بستن</string>
+    <string name="review_pronounce">تلفظ</string>
+    <string name="review_unit">مرور · فصل %1$s</string>
+    <string name="review_show_answer">نشون بده</string>
+    <string name="review_think">اول به معنیش فکر کن، بعد ببین.</string>
+    <string name="review_how">چقدر راحت یادت اومد؟</string>
+    <string name="rating_again">یادم نبود</string>
+    <string name="rating_hard">سخت</string>
+    <string name="rating_good">خوب</string>
+    <string name="rating_easy">آسون</string>
+    <string name="interval_minutes">%1$d دقیقه</string>
+    <string name="interval_days">%1$d روز</string>
+    <string name="review_done_title">مرور امروز تموم شد!</string>
+    <string name="review_done_body">%1$d لغت مرور کردی. فردا لغت‌های بعدی منتظرتن.</string>
+    <string name="review_empty_title">امروز چیزی برای مرور نیست</string>
+    <string name="review_empty_body">یه فصل جدید یاد بگیر تا لغت‌هاش وارد مرور بشن.</string>
+    <string name="review_back">برگشت</string>
+</resources>

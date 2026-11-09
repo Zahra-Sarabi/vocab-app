@@ -1,0 +1,41 @@
+{
+  "id": "elementary-09-useful-expressions",
+  "order": 9,
+  "title": "Useful words and expressions",
+  "titleFa": "کلمه‌ها و عبارت‌های پرکاربرد",
+  "illustration": "light-bulb",
+  "color": "butter",
+  "descriptionFa": "کلمه‌های کوچیک ولی مهم مکالمه، پیشنهاد دادن، و واکنش نشون دادن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "useful-actually", "text": "actually", "meaningFa": "در واقع، راستش", "partOfSpeech": "adverb", "phonetic": "/ˈæk.tʃu.ə.li/", "example": "Everyone thinks he's rich, but actually he has very little money.", "tipFa": "actually یعنی «در واقع»، نه «در حال حاضر». «الان» می‌شه now یا at the moment." },
+    { "id": "useful-else", "text": "else", "meaningFa": "دیگه (کس، چیز یا جای دیگر)", "partOfSpeech": "adverb", "phonetic": "/els/", "example": "Is there anything else you need?", "tipFa": "بعد از something, anything, somewhere, who, what میاد: Who else is coming?" },
+    { "id": "useful-around", "text": "around", "meaningFa": "حدودِ، تقریباً", "partOfSpeech": "adverb", "phonetic": "/əˈraʊnd/", "example": "The drive to Isfahan takes around five hours.", "tipFa": "about هم همین معنی رو داره: about five hours." },
+    { "id": "useful-anyway", "text": "anyway", "meaningFa": "به هر حال", "partOfSpeech": "adverb", "phonetic": "/ˈen.i.weɪ/", "example": "It's raining, but I'm going for a walk anyway.", "tipFa": "اول جمله برای برگشتن به حرف قبلی هم هست: Anyway, as I was saying…" },
+    { "id": "useful-why-dont-we", "text": "why don't we", "meaningFa": "چطوره که…؟ (پیشنهاد)", "partOfSpeech": "phrase", "phonetic": "/waɪ dəʊnt wiː/", "example": "It's a lovely day. Why don't we have a picnic?", "tipFa": "بعدش فعل ساده میاد: Why don't we go… نه Why don't we going." },
+    { "id": "useful-lets", "text": "let's", "meaningFa": "بیا…، بیایید… (پیشنهاد)", "partOfSpeech": "phrase", "phonetic": "/lets/", "example": "I'm hungry. Let's order a pizza.", "tipFa": "بعدش فعل ساده میاد: Let's go، نه Let's going." },
+    { "id": "useful-what-about", "text": "what about", "meaningFa": "… چطوره؟ (پیشنهاد)", "partOfSpeech": "phrase", "phonetic": "/wɒt əˈbaʊt/", "example": "What about inviting Sara too?", "tipFa": "بعدش فعل ing دار میاد: What about going… How about هم همینه." },
+    { "id": "useful-i-dont-mind", "text": "I don't mind", "meaningFa": "برام فرقی نمی‌کنه", "partOfSpeech": "phrase", "phonetic": "/aɪ dəʊnt maɪnd/", "example": "Tea or coffee? I don't mind." },
+    { "id": "useful-its-up-to-you", "text": "it's up to you", "meaningFa": "هر جور خودت بخوای، تصمیمش با تو", "partOfSpeech": "phrase", "phonetic": "/ɪts ʌp tə juː/", "example": "Where shall we eat tonight? It's up to you." },
+    { "id": "useful-oh-dear", "text": "oh dear", "meaningFa": "ای وای!", "partOfSpeech": "phrase", "phonetic": "/əʊ ˈdɪər/", "example": "Oh dear! I've left my keys at home." },
+    { "id": "useful-it-doesnt-matter", "text": "it doesn't matter", "meaningFa": "مهم نیست، اشکالی نداره", "partOfSpeech": "phrase", "phonetic": "/ɪt ˈdʌz.ənt ˈmæt.ər/", "example": "Sorry, I broke your pen. It doesn't matter, I have another one.", "tipFa": "it doesn't matter، نه it isn't matter." },
+    { "id": "useful-what-a-pity", "text": "what a pity", "meaningFa": "حیف شد!", "partOfSpeech": "phrase", "phonetic": "/wɒt ə ˈpɪt.i/", "example": "You can't come to the wedding? What a pity!" },
+    { "id": "useful-hurry-up", "text": "hurry up", "meaningFa": "عجله کن، زود باش", "partOfSpeech": "phrase", "phonetic": "/ˈhʌr.i ʌp/", "example": "Hurry up! The film starts in five minutes." },
+    { "id": "useful-look-out", "text": "look out", "meaningFa": "مواظب باش! (هشدار ناگهانی)", "partOfSpeech": "phrase", "phonetic": "/lʊk aʊt/", "example": "Look out! There's a bike behind you!", "tipFa": "برای خطری که همین الان داره اتفاق می‌افته." },
+    { "id": "useful-be-careful", "text": "be careful", "meaningFa": "احتیاط کن (توصیه)", "partOfSpeech": "phrase", "phonetic": "/bi ˈkeə.fəl/", "example": "Be careful with that knife. It's very sharp.", "tipFa": "برای توصیه و احتیاط، نه فقط خطر ناگهانی." },
+    { "id": "useful-absolutely", "text": "absolutely", "meaningFa": "کاملاً، صددرصد (موافقت شدید)", "partOfSpeech": "adverb", "phonetic": "/ˌæb.səˈluːt.li/", "example": "Is this the best kebab in town? Absolutely!" },
+    { "id": "useful-i-agree", "text": "I agree", "meaningFa": "موافقم", "partOfSpeech": "phrase", "phonetic": "/aɪ əˈɡriː/", "example": "We should leave early. I agree.", "tipFa": "I agree یا I don't agree. ولی I am agree غلطه." }
+  ],
+  "gapQuestions": [
+    { "id": "useful-gap-1", "sentence": "Reza and Mina are coming to the party. Who ___ is coming?", "answer": "else", "hintFa": "چه کس دیگه‌ای؟" },
+    { "id": "useful-gap-2", "sentence": "The flight from Tehran to Dubai takes ___ two hours.", "answer": "around", "hintFa": "تقریباً." },
+    { "id": "useful-gap-3", "sentence": "I thought the test was difficult, but ___ it was quite easy.", "answer": "actually", "hintFa": "در واقع." },
+    { "id": "useful-gap-4", "sentence": "___ eat out tonight. I don't want to cook.", "answer": "let's", "hintFa": "بیا…" },
+    { "id": "useful-gap-5", "sentence": "Pizza or pasta? ___. Both are fine.", "answer": "I don't mind", "hintFa": "برام فرقی نمی‌کنه." },
+    { "id": "useful-gap-6", "sentence": "Oh no, I spilled coffee on your book! Don't worry, ___.", "answer": "it doesn't matter", "hintFa": "مهم نیست." },
+    { "id": "useful-gap-7", "sentence": "The bus leaves in two minutes! ___!", "answer": "hurry up", "hintFa": "زود باش." },
+    { "id": "useful-gap-8", "sentence": "___ when you cross the road. There's a lot of traffic.", "answer": "be careful", "hintFa": "احتیاط کن (توصیه)." },
+    { "id": "useful-gap-9", "sentence": "___! A ball is flying towards your head!", "answer": "look out", "hintFa": "هشدار ناگهانی!" },
+    { "id": "useful-gap-10", "sentence": "Ali thinks the lesson was too long, and ___. It was really boring.", "answer": "I agree", "hintFa": "موافقم." }
+  ]
+}

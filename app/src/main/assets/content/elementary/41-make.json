@@ -1,0 +1,36 @@
+{
+  "id": "elementary-41-make",
+  "order": 41,
+  "title": "Make / made / made",
+  "titleFa": "عبارت‌های make",
+  "illustration": "light-bulb",
+  "color": "mint",
+  "descriptionFa": "عبارت‌هایی که با make می‌گیم (نه do)، و make me feel.",
+  "referenceRows": [],
+  "words": [
+    { "id": "make-made", "text": "made", "meaningFa": "ساخت، درست کرد (گذشته‌ی make)", "partOfSpeech": "verb", "phonetic": "/meɪd/", "example": "My grandmother made this carpet by hand.", "tipFa": "make / made / made. ساخت جایی: Made in Iran." },
+    { "id": "make-make-tea", "text": "make tea", "meaningFa": "چای درست کردن (دم کردن)", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ˈtiː/", "example": "Shall I make tea for everyone?", "tipFa": "make coffee / hot chocolate هم همین‌طور." },
+    { "id": "make-make-dinner", "text": "make dinner", "meaningFa": "شام درست کردن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ˈdɪn.ər/", "example": "It's my turn to make dinner tonight.", "tipFa": "make breakfast / lunch هم می‌گیم. ولی «خوردن»ش have هست: have dinner." },
+    { "id": "make-make-a-photocopy", "text": "make a photocopy", "meaningFa": "فتوکپی گرفتن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ə ˈfəʊ.təʊˌkɒp.i/", "example": "Can you make a photocopy of this page?", "tipFa": "ولی عکس گرفتن: take a photo، نه make a photo." },
+    { "id": "make-make-a-film", "text": "make a film", "meaningFa": "فیلم ساختن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ə ˈfɪlm/", "example": "She wants to make a film about her village." },
+    { "id": "make-make-me-feel", "text": "make me feel", "meaningFa": "باعث می‌شه احساس … کنم", "partOfSpeech": "verb phrase", "phonetic": "/meɪk mi ˈfiːl/", "example": "Rainy days make me feel sleepy.", "tipFa": "feel رو می‌شه حذف کرد: That film made me sad." },
+    { "id": "make-make-a-mistake", "text": "make a mistake", "meaningFa": "اشتباه کردن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ə mɪˈsteɪk/", "example": "Don't worry if you make a mistake. It's how we learn.", "tipFa": "make a mistake، نه do a mistake." },
+    { "id": "make-make-an-appointment", "text": "make an appointment", "meaningFa": "وقت گرفتن (از دکتر و…)", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ən əˈpɔɪnt.mənt/", "example": "I need to make an appointment with the dentist." },
+    { "id": "make-make-the-bed", "text": "make the bed", "meaningFa": "رختخواب رو مرتب کردن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ðə ˈbed/", "example": "I make the bed every morning after I get up.", "tipFa": "با ضمیر: make my bed, make your bed." },
+    { "id": "make-make-a-noise", "text": "make a noise", "meaningFa": "سروصدا کردن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ə ˈnɔɪz/", "example": "Please don't make a noise. The baby is sleeping." },
+    { "id": "make-make-a-mess", "text": "make a mess", "meaningFa": "ریخت‌وپاش کردن، کثیف‌کاری کردن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ə ˈmes/", "example": "The kids always make a mess when they cook." },
+    { "id": "make-make-a-choice", "text": "make a choice", "meaningFa": "انتخاب کردن", "partOfSpeech": "verb phrase", "phonetic": "/meɪk ə ˈtʃɔɪs/", "example": "It's difficult, but you have to make a choice.", "tipFa": "تصمیم گرفتن هم با make: make a decision." }
+  ],
+  "gapQuestions": [
+    { "id": "make-gap-1", "sentence": "Can you ___ of my passport? I need two copies.", "answer": "make a photocopy", "hintFa": "فتوکپی." },
+    { "id": "make-gap-2", "sentence": "Shh! Don't ___. Grandpa is sleeping.", "answer": "make a noise", "hintFa": "سروصدا." },
+    { "id": "make-gap-3", "sentence": "I've got toothache. I need to ___ with the dentist.", "answer": "make an appointment", "hintFa": "وقت گرفتن." },
+    { "id": "make-gap-4", "sentence": "Sad songs always ___ lonely.", "answer": "make me feel", "hintFa": "باعث می‌شن احساس کنم." },
+    { "id": "make-gap-5", "sentence": "Check your answers carefully so you don't ___.", "answer": "make a mistake", "hintFa": "اشتباه." },
+    { "id": "make-gap-6", "sentence": "Please ___ and open the curtains before you leave your bedroom.", "answer": "make the bed", "hintFa": "رختخواب رو مرتب کن." },
+    { "id": "make-gap-7", "sentence": "Please don't ___ in the kitchen. I've just cleaned it.", "answer": "make a mess", "hintFa": "ریخت‌وپاش." },
+    { "id": "make-gap-8", "sentence": "Red or blue? You have to ___.", "answer": "make a choice", "hintFa": "انتخاب." },
+    { "id": "make-gap-9", "sentence": "My father ___ this table himself last summer.", "answer": "made", "hintFa": "گذشته‌ی make." },
+    { "id": "make-gap-10", "sentence": "Would you like a hot drink? I'll ___.", "answer": "make tea", "hintFa": "چای درست کنم." }
+  ]
+}

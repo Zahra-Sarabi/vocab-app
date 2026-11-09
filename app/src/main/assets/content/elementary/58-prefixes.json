@@ -1,0 +1,42 @@
+{
+  "id": "elementary-58-prefixes",
+  "order": 58,
+  "title": "Prefixes",
+  "titleFa": "پیشوندها",
+  "illustration": "light-bulb",
+  "color": "sky",
+  "descriptionFa": "پیشوندهایی مثل un، im، re و ex که معنی کلمه رو عوض می‌کنن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "prefix-ex-wife", "text": "ex-wife", "meaningFa": "همسر سابق (زن)", "partOfSpeech": "noun", "phonetic": "/ˌeksˈwaɪf/", "example": "His ex-wife lives in Shiraz now.", "tipFa": "ex- یعنی «سابق»: ex-husband, ex-boss." },
+    { "id": "prefix-ex-boyfriend", "text": "ex-boyfriend", "meaningFa": "دوست‌پسر سابق", "partOfSpeech": "noun", "phonetic": "/ˌeksˈbɔɪ.frend/", "example": "I saw my ex-boyfriend at the party last night." },
+    { "id": "prefix-half-price", "text": "half-price", "meaningFa": "نصف قیمت", "partOfSpeech": "adjective", "phonetic": "/ˌhɑːfˈpraɪs/", "example": "I bought two T-shirts because they were half-price in the sale.", "tipFa": "half- یعنی «نصف»: half-hour (نیم ساعت)." },
+    { "id": "prefix-half-brother", "text": "half-brother", "meaningFa": "برادر ناتنی", "partOfSpeech": "noun", "phonetic": "/ˈhɑːfˌbrʌð.ər/", "example": "My half-brother has the same father as me, but a different mother." },
+    { "id": "prefix-informal", "text": "informal", "meaningFa": "غیررسمی، خودمونی", "partOfSpeech": "adjective", "phonetic": "/ɪnˈfɔː.məl/", "example": "In informal English we often say 'Hi', not 'Good morning'.", "tipFa": "in- / im- یعنی «نَه، غیر»: informal, impossible, incorrect." },
+    { "id": "prefix-impossible", "text": "impossible", "meaningFa": "غیرممکن", "partOfSpeech": "adjective", "phonetic": "/ɪmˈpɒs.ə.bəl/", "example": "It's impossible to read with your eyes closed." },
+    { "id": "prefix-impolite", "text": "impolite", "meaningFa": "بی‌ادب، بی‌ادبانه", "partOfSpeech": "adjective", "phonetic": "/ˌɪm.pəlˈaɪt/", "example": "It's impolite to talk with your mouth full." },
+    { "id": "prefix-incorrect", "text": "incorrect", "meaningFa": "نادرست، غلط", "partOfSpeech": "adjective", "phonetic": "/ˌɪn.kəˈrekt/", "example": "Two of your answers are incorrect." },
+    { "id": "prefix-non-smoking", "text": "non-smoking", "meaningFa": "مخصوص غیرسیگاری‌ها", "partOfSpeech": "adjective", "phonetic": "/ˌnɒnˈsməʊ.kɪŋ/", "example": "This part of the restaurant is non-smoking.", "tipFa": "non- یعنی «غیر»: non-alcoholic (بدون الکل)." },
+    { "id": "prefix-pre-school", "text": "pre-school", "meaningFa": "پیش‌دبستانی", "partOfSpeech": "adjective, noun", "phonetic": "/ˈpriː.skuːl/", "example": "Pre-school children are too young to go to school.", "tipFa": "pre- یعنی «پیش، قبل از»: pre-heat (از قبل گرم کردن)." },
+    { "id": "prefix-pre-heat", "text": "pre-heat", "meaningFa": "از قبل گرم کردن (فر)", "partOfSpeech": "verb", "phonetic": "/ˌpriːˈhiːt/", "example": "Pre-heat the oven to 180 degrees." },
+    { "id": "prefix-redo", "text": "redo", "meaningFa": "دوباره انجام دادن", "partOfSpeech": "verb", "phonetic": "/riːˈduː/", "example": "This exercise is wrong. Please redo it.", "tipFa": "re- یعنی «دوباره»: rewrite, reread, resend." },
+    { "id": "prefix-rewrite", "text": "rewrite", "meaningFa": "دوباره نوشتن", "partOfSpeech": "verb", "phonetic": "/riːˈraɪt/", "example": "I can't read this. Please rewrite your homework." },
+    { "id": "prefix-unhappy", "text": "unhappy", "meaningFa": "ناراحت، ناخشنود", "partOfSpeech": "adjective", "phonetic": "/ʌnˈhæp.i/", "example": "I liked school, but my sister was very unhappy there.", "tipFa": "un- یعنی «نَه»: unsafe, unfinished, uncomfortable." },
+    { "id": "prefix-unsafe", "text": "unsafe", "meaningFa": "ناامن، خطرناک", "partOfSpeech": "adjective", "phonetic": "/ʌnˈseɪf/", "example": "Don't walk on that wall. It's unsafe." },
+    { "id": "prefix-unfinished", "text": "unfinished", "meaningFa": "نیمه‌تموم", "partOfSpeech": "adjective", "phonetic": "/ʌnˈfɪn.ɪʃt/", "example": "There's an unfinished letter on my desk." },
+    { "id": "prefix-uncomfortable", "text": "uncomfortable", "meaningFa": "ناراحت (غیرراحت)", "partOfSpeech": "adjective", "phonetic": "/ʌnˈkʌmf.tə.bəl/", "example": "These shoes are very uncomfortable." },
+    { "id": "prefix-unpleasant", "text": "unpleasant", "meaningFa": "ناخوشایند", "partOfSpeech": "adjective", "phonetic": "/ʌnˈplez.ənt/", "example": "There's an unpleasant smell in the kitchen." }
+  ],
+  "gapQuestions": [
+    { "id": "prefix-gap-1", "sentence": "Sorry, you can't smoke here. This café is ___.", "answer": "non-smoking", "hintFa": "غیرسیگاری." },
+    { "id": "prefix-gap-2", "sentence": "I can't read your writing. Please ___ your homework.", "answer": "rewrite", "hintFa": "دوباره بنویس." },
+    { "id": "prefix-gap-3", "sentence": "Jeans and trainers are ___ clothes.", "answer": "informal", "hintFa": "غیررسمی." },
+    { "id": "prefix-gap-4", "sentence": "It's ___ to finish all this work today. There's too much.", "answer": "impossible", "hintFa": "غیرممکن." },
+    { "id": "prefix-gap-5", "sentence": "Everything in the shop is ___ today: a 100,000 toman shirt is 50,000.", "answer": "half-price", "hintFa": "نصف قیمت." },
+    { "id": "prefix-gap-6", "sentence": "The bridge is old and ___. Don't cross it.", "answer": "unsafe", "hintFa": "خطرناک." },
+    { "id": "prefix-gap-7", "sentence": "Your answer is ___. Try again.", "answer": "incorrect", "hintFa": "غلط." },
+    { "id": "prefix-gap-8", "sentence": "___ the oven before you put the cake in.", "answer": "pre-heat", "hintFa": "از قبل گرم کن." },
+    { "id": "prefix-gap-9", "sentence": "This chair is hard and ___. Can I sit on the sofa?", "answer": "uncomfortable", "hintFa": "ناراحت." },
+    { "id": "prefix-gap-10", "sentence": "My ___ and I are still friends, but we aren't together now.", "answer": "ex-boyfriend", "hintFa": "دوست‌پسر سابق." }
+  ]
+}

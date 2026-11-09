@@ -1,0 +1,38 @@
+{
+  "id": "elementary-35-media",
+  "order": 35,
+  "title": "The media",
+  "titleFa": "رسانه‌ها",
+  "illustration": "speaker",
+  "color": "pink",
+  "descriptionFa": "انواع برنامه‌ی تلویزیونی، روزنامه و تبلیغ، و آدم‌هایی که خبر تهیه می‌کنن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "media-the-media", "text": "the media", "meaningFa": "رسانه‌ها", "partOfSpeech": "noun", "phonetic": "/ðə ˈmiː.di.ə/", "example": "The media talked about the earthquake for weeks.", "tipFa": "یعنی تلویزیون، رادیو، روزنامه و اینترنت با هم." },
+    { "id": "media-the-news", "text": "the news", "meaningFa": "اخبار", "partOfSpeech": "noun", "phonetic": "/ðə ˈnjuːz/", "example": "I watch the news every evening.", "tipFa": "با s تموم می‌شه ولی مفرده: The news is on now، نه are." },
+    { "id": "media-channel", "text": "channel", "meaningFa": "کانال (تلویزیون)", "partOfSpeech": "noun", "phonetic": "/ˈtʃæn.əl/", "example": "What channel is the football match on?", "tipFa": "کانال عوض کردن: change the channel." },
+    { "id": "media-soap-opera", "text": "soap opera", "meaningFa": "سریال خانوادگی (هر روزه)", "partOfSpeech": "noun", "phonetic": "/ˈsəʊp ˌɒp.ər.ə/", "example": "My grandmother never misses her favourite soap opera.", "tipFa": "کوتاهش: soap." },
+    { "id": "media-documentary", "text": "documentary", "meaningFa": "مستند", "partOfSpeech": "noun", "phonetic": "/ˌdɒk.jəˈmen.tər.i/", "example": "We watched a documentary about the Persian Gulf." },
+    { "id": "media-nature-programme", "text": "nature programme", "meaningFa": "برنامه‌ی حیات وحش و طبیعت", "partOfSpeech": "noun", "phonetic": "/ˈneɪ.tʃə ˌprəʊ.ɡræm/", "example": "This nature programme is about the Persian leopard." },
+    { "id": "media-talk-show", "text": "talk show", "meaningFa": "برنامه‌ی گفتگومحور (تاک‌شو)", "partOfSpeech": "noun", "phonetic": "/ˈtɔːk ˌʃəʊ/", "example": "She talked about her new film on a talk show." },
+    { "id": "media-reality-tv", "text": "reality TV", "meaningFa": "برنامه‌ی واقع‌نما (ریالیتی‌شو)", "partOfSpeech": "noun", "phonetic": "/riˈæl.ə.ti ˌtiːˌviː/", "example": "Reality TV shows ordinary people, not actors." },
+    { "id": "media-sports-programme", "text": "sports programme", "meaningFa": "برنامه‌ی ورزشی", "partOfSpeech": "noun", "phonetic": "/ˈspɔːts ˌprəʊ.ɡræm/", "example": "My dad watches every sports programme on Friday nights." },
+    { "id": "media-advert", "text": "advert", "meaningFa": "تبلیغ، آگهی", "partOfSpeech": "noun", "phonetic": "/ˈæd.vɜːt/", "example": "I saw an advert for a new phone on the bus.", "tipFa": "اسم کامل: advertisement. کوتاه‌تر: ad." },
+    { "id": "media-interview", "text": "interview", "meaningFa": "مصاحبه", "partOfSpeech": "noun", "phonetic": "/ˈɪn.tə.vjuː/", "example": "I watched an interview with a famous footballer.", "tipFa": "an interview with someone. مصاحبه‌ی کاری هم interview هست." },
+    { "id": "media-reporter", "text": "reporter", "meaningFa": "خبرنگار", "partOfSpeech": "noun", "phonetic": "/rɪˈpɔː.tər/", "example": "A reporter asked the minister a difficult question." },
+    { "id": "media-journalist", "text": "journalist", "meaningFa": "روزنامه‌نگار", "partOfSpeech": "noun", "phonetic": "/ˈdʒɜː.nə.lɪst/", "example": "My aunt is a journalist for a newspaper in Tehran." },
+    { "id": "media-article", "text": "article", "meaningFa": "مقاله، مطلب (روزنامه یا مجله)", "partOfSpeech": "noun", "phonetic": "/ˈɑː.tɪ.kəl/", "example": "I read an interesting article about space." }
+  ],
+  "gapQuestions": [
+    { "id": "media-gap-1", "sentence": "This ___ wants me to buy a new car, but I don't need one.", "answer": "advert", "hintFa": "تبلیغ." },
+    { "id": "media-gap-2", "sentence": "A ___ goes to places to get the latest news stories.", "answer": "reporter", "hintFa": "خبرنگار." },
+    { "id": "media-gap-3", "sentence": "We watched a ___ about plastic in the sea.", "answer": "documentary", "hintFa": "مستند." },
+    { "id": "media-gap-4", "sentence": "In this ___, the same family has new problems every evening.", "answer": "soap opera", "hintFa": "سریال خانوادگی." },
+    { "id": "media-gap-5", "sentence": "The film star gave an ___ to a famous magazine.", "answer": "interview", "hintFa": "مصاحبه." },
+    { "id": "media-gap-6", "sentence": "There's nothing good on this ___. Let's watch something else.", "answer": "channel", "hintFa": "کانال." },
+    { "id": "media-gap-7", "sentence": "I read an ___ about healthy food in a magazine.", "answer": "article", "hintFa": "مطلب." },
+    { "id": "media-gap-8", "sentence": "In this ___ show, ten strangers live together and cameras film them all day.", "answer": "reality TV", "hintFa": "ریالیتی‌شو." },
+    { "id": "media-gap-9", "sentence": "Last night there was a great ___ about whales.", "answer": "nature programme", "hintFa": "برنامه‌ی طبیعت." },
+    { "id": "media-gap-10", "sentence": "Did you see ___ today? There was an earthquake in Japan.", "answer": "the news", "hintFa": "اخبار." }
+  ]
+}

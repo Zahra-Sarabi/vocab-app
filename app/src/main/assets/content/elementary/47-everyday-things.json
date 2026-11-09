@@ -1,0 +1,32 @@
+{
+  "id": "elementary-47-everyday-things",
+  "order": 47,
+  "title": "Everyday things",
+  "titleFa": "کارهای روزمره",
+  "illustration": "calendar",
+  "color": "periwinkle",
+  "descriptionFa": "کارهای هر روز و گاه‌به‌گاه، و پرسیدن درباره‌ی برنامه‌ی روزانه.",
+  "referenceRows": [],
+  "words": [
+    { "id": "everyday-go-to-work", "text": "go to work", "meaningFa": "سر کار رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ tə ˈwɜːk/", "example": "I go to work at eight o'clock.", "tipFa": "بدون the: go to work، نه go to the work." },
+    { "id": "everyday-go-to-the-bathroom", "text": "go to the bathroom", "meaningFa": "دستشویی رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ tə ðə ˈbɑːθ.ruːm/", "example": "Excuse me, I need to go to the bathroom." },
+    { "id": "everyday-phone-a-friend", "text": "phone a friend", "meaningFa": "به دوستی زنگ زدن", "partOfSpeech": "verb phrase", "phonetic": "/fəʊn ə ˈfrend/", "example": "When I feel lonely, I phone a friend.", "tipFa": "call a friend هم همینه." },
+    { "id": "everyday-wash-clothes", "text": "wash clothes", "meaningFa": "لباس شستن", "partOfSpeech": "verb phrase", "phonetic": "/wɒʃ ˈkləʊðz/", "example": "I wash clothes on Saturday mornings.", "tipFa": "do the washing هم همین معنی رو داره." },
+    { "id": "everyday-clean-the-house", "text": "clean the house", "meaningFa": "خونه رو تمیز کردن", "partOfSpeech": "verb phrase", "phonetic": "/kliːn ðə ˈhaʊs/", "example": "Before Nowruz, everyone helps to clean the house.", "tipFa": "خونه‌تکونی قبل از عید: spring cleaning." },
+    { "id": "everyday-go-for-a-walk", "text": "go for a walk", "meaningFa": "قدم زدن رفتن", "partOfSpeech": "verb phrase", "phonetic": "/ɡəʊ fər ə ˈwɔːk/", "example": "After dinner we often go for a walk in the park." },
+    { "id": "everyday-write-emails", "text": "write emails", "meaningFa": "ایمیل نوشتن", "partOfSpeech": "verb phrase", "phonetic": "/raɪt ˈiː.meɪlz/", "example": "I write emails to my clients every morning." },
+    { "id": "everyday-usually", "text": "usually", "meaningFa": "معمولاً", "partOfSpeech": "adverb", "phonetic": "/ˈjuː.ʒu.ə.li/", "example": "I usually get up at seven, but today I got up at nine.", "tipFa": "برای عادت حال، usually، نه used to. used to برای عادت‌های گذشته‌ست." },
+    { "id": "everyday-how-often", "text": "how often", "meaningFa": "هر چند وقت یه بار؟", "partOfSpeech": "phrase", "phonetic": "/haʊ ˈɒf.ən/", "example": "How often do you go to the cinema?", "tipFa": "جواب: three times a week, once a month, every day." },
+    { "id": "everyday-times-a-week", "text": "times a week", "meaningFa": "بار در هفته", "partOfSpeech": "phrase", "phonetic": "/taɪmz ə ˈwiːk/", "example": "I go to the gym three times a week.", "tipFa": "یک بار: once a week. دو بار: twice a week." }
+  ],
+  "gapQuestions": [
+    { "id": "everyday-gap-1", "sentence": "I ___ by metro because the traffic is terrible.", "answer": "go to work", "hintFa": "سر کار رفتن." },
+    { "id": "everyday-gap-2", "sentence": "___ do you visit your grandparents? Every Friday.", "answer": "how often", "hintFa": "هر چند وقت؟" },
+    { "id": "everyday-gap-3", "sentence": "It's a lovely evening. Let's ___ by the river.", "answer": "go for a walk", "hintFa": "قدم بزنیم." },
+    { "id": "everyday-gap-4", "sentence": "My washing machine is broken, so I can't ___ this week.", "answer": "wash clothes", "hintFa": "لباس شستن." },
+    { "id": "everyday-gap-5", "sentence": "I play football four ___.", "answer": "times a week", "hintFa": "بار در هفته." },
+    { "id": "everyday-gap-6", "sentence": "We ___ every Thursday, so it's always tidy at the weekend.", "answer": "clean the house", "hintFa": "تمیز کردن خونه." },
+    { "id": "everyday-gap-7", "sentence": "I ___ have tea with breakfast, but today I'm having coffee.", "answer": "usually", "hintFa": "معمولاً." },
+    { "id": "everyday-gap-8", "sentence": "I spend two hours every morning at my desk. I read and ___ to customers.", "answer": "write emails", "hintFa": "ایمیل نوشتن." }
+  ]
+}

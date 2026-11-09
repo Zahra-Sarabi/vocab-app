@@ -1,0 +1,42 @@
+{
+  "id": "elementary-36-problems",
+  "order": 36,
+  "title": "Problems at home and work",
+  "titleFa": "مشکلات خونه و محل کار",
+  "illustration": "cross",
+  "color": "mint",
+  "descriptionFa": "چیزهایی که خراب می‌شن، مشکلات روزمره‌ی خونه، و یه روز بد سر کار.",
+  "referenceRows": [],
+  "words": [
+    { "id": "problem-isnt-working", "text": "isn't working", "meaningFa": "کار نمی‌کنه، خرابه", "partOfSpeech": "phrase", "phonetic": "/ˈɪz.ənt ˈwɜː.kɪŋ/", "example": "The printer isn't working again.", "tipFa": "گذشته‌ش: The coffee machine wasn't working." },
+    { "id": "problem-broken", "text": "broken", "meaningFa": "شکسته، خراب", "partOfSpeech": "adjective", "phonetic": "/ˈbrəʊ.kən/", "example": "The window is broken. Someone threw a ball through it." },
+    { "id": "problem-repair", "text": "repair", "meaningFa": "تعمیر کردن", "partOfSpeech": "verb", "phonetic": "/rɪˈpeər/", "example": "Can you repair my phone screen?", "tipFa": "mend و fix هم همین معنی رو دارن. mend بیشتر برای چیزهای ساده: mend a shirt." },
+    { "id": "problem-crash", "text": "crash", "meaningFa": "از کار افتادن (کامپیوتر)، هنگ کردن", "partOfSpeech": "verb", "phonetic": "/kræʃ/", "example": "Save your work often in case the computer starts to crash.", "tipFa": "تصادف ماشین هم crash هست." },
+    { "id": "problem-photocopier", "text": "photocopier", "meaningFa": "دستگاه فتوکپی", "partOfSpeech": "noun", "phonetic": "/ˈfəʊ.təʊˌkɒp.i.ər/", "example": "The photocopier on the second floor is out of order." },
+    { "id": "problem-water", "text": "water", "meaningFa": "آب دادن (به گیاه)", "partOfSpeech": "verb", "phonetic": "/ˈwɔː.tər/", "example": "I water the flowers every evening in summer." },
+    { "id": "problem-untidy", "text": "untidy", "meaningFa": "نامرتب، به‌هم‌ریخته", "partOfSpeech": "adjective", "phonetic": "/ʌnˈtaɪ.di/", "example": "My son's room is always untidy." },
+    { "id": "problem-tidy", "text": "tidy", "meaningFa": "مرتب کردن", "partOfSpeech": "verb", "phonetic": "/ˈtaɪ.di/", "example": "Please tidy your desk before you go home.", "tipFa": "صفت هم هست یعنی «مرتب»: a tidy room." },
+    { "id": "problem-lose", "text": "lose", "meaningFa": "گم کردن", "partOfSpeech": "verb", "phonetic": "/luːz/", "example": "I always lose my keys!", "tipFa": "گذشته: lost. با loose (گشاد) قاطی نشه." },
+    { "id": "problem-cut", "text": "cut", "meaningFa": "بریدن (زخمی کردن)", "partOfSpeech": "verb", "phonetic": "/kʌt/", "example": "Be careful not to cut your finger on that knife.", "tipFa": "گذشته‌ش هم cut هست." },
+    { "id": "problem-plaster", "text": "plaster", "meaningFa": "چسب زخم", "partOfSpeech": "noun", "phonetic": "/ˈplɑː.stər/", "example": "Put a plaster on that cut.", "tipFa": "آمریکایی‌ها Band-Aid می‌گن." },
+    { "id": "problem-have-a-row", "text": "have a row", "meaningFa": "دعوا کردن (لفظی)", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˈraʊ/", "example": "Did you have a row with your brother again?", "tipFa": "row اینجا «راو» تلفظ می‌شه. have a row with someone." },
+    { "id": "problem-apologise", "text": "apologise", "meaningFa": "عذرخواهی کردن", "partOfSpeech": "verb", "phonetic": "/əˈpɒl.ə.dʒaɪz/", "example": "You should apologise to your mum.", "tipFa": "apologise to someone for something. آمریکایی: apologize." },
+    { "id": "problem-have-a-bad-day", "text": "have a bad day", "meaningFa": "روز بدی داشتن", "partOfSpeech": "verb phrase", "phonetic": "/hæv ə ˌbæd ˈdeɪ/", "example": "Did you have a bad day? You look tired." },
+    { "id": "problem-late-for", "text": "late for", "meaningFa": "دیر (رسیدن) به", "partOfSpeech": "phrase", "phonetic": "/ˈleɪt fɔːr/", "example": "Hurry up or we'll be late for school." },
+    { "id": "problem-too-much-work", "text": "too much work", "meaningFa": "کار بیش از حد", "partOfSpeech": "phrase", "phonetic": "/tuː ˌmʌtʃ ˈwɜːk/", "example": "I can't come tonight. I have too much work.", "tipFa": "work غیرقابل‌شمارشه، پس much، نه many." },
+    { "id": "problem-colleague", "text": "colleague", "meaningFa": "همکار", "partOfSpeech": "noun", "phonetic": "/ˈkɒl.iːɡ/", "example": "My colleague helped me with the report.", "tipFa": "تلفظ: «کالیگ»." },
+    { "id": "problem-in-a-bad-mood", "text": "in a bad mood", "meaningFa": "بداخلاق، کج‌خلق (در اون لحظه)", "partOfSpeech": "phrase", "phonetic": "/ɪn ə ˌbæd ˈmuːd/", "example": "Don't talk to the boss now. He's in a bad mood.", "tipFa": "ضدش: in a good mood." }
+  ],
+  "gapQuestions": [
+    { "id": "problem-gap-1", "sentence": "My computer froze and I lost everything. Did it ___ again?", "answer": "crash", "hintFa": "هنگ کردن." },
+    { "id": "problem-gap-2", "sentence": "It hasn't rained for weeks, so I have to ___ the garden every day.", "answer": "water", "hintFa": "آب دادن." },
+    { "id": "problem-gap-3", "sentence": "I'm sorry I shouted at you. I want to ___.", "answer": "apologise", "hintFa": "عذرخواهی." },
+    { "id": "problem-gap-4", "sentence": "Your bedroom is so ___! There are clothes everywhere.", "answer": "untidy", "hintFa": "نامرتب." },
+    { "id": "problem-gap-5", "sentence": "Hold your bag carefully or you'll ___ it.", "answer": "lose", "hintFa": "گم کردن." },
+    { "id": "problem-gap-6", "sentence": "The washing machine is ___. We need a new one.", "answer": "broken", "hintFa": "خراب." },
+    { "id": "problem-gap-7", "sentence": "Can you make ten copies of this on the ___?", "answer": "photocopier", "hintFa": "دستگاه کپی." },
+    { "id": "problem-gap-8", "sentence": "My ___ and I share an office.", "answer": "colleague", "hintFa": "همکار." },
+    { "id": "problem-gap-9", "sentence": "I've hurt my knee and it's bleeding. Have you got a ___?", "answer": "plaster", "hintFa": "چسب زخم." },
+    { "id": "problem-gap-10", "sentence": "The traffic was terrible, so I was ___ work.", "answer": "late for", "hintFa": "دیر رسیدن." }
+  ]
+}

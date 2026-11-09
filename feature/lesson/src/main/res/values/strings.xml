@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lesson_close">بستن</string>
+    <string name="lesson_pronounce">تلفظ</string>
+    <string name="lesson_new_word">لغت جدید</string>
+    <string name="lesson_previous">قبلی</string>
+    <string name="lesson_next">بعدی</string>
+    <string name="lesson_finish_learn">شروع تمرین</string>
+    <string name="lesson_star">علامت سخت</string>
+    <string name="q_meaning">معنی این کلمه چیه؟</string>
+    <string name="q_word">کلمه‌ی انگلیسی کدومه؟</string>
+    <string name="q_gap">کلمه‌ی جاافتاده رو بنویس.</string>
+    <string name="q_listen">چیزی که می‌شنوی رو بنویس.</string>
+    <string name="q_match">هر کلمه رو به معنیش وصل کن.</string>
+    <string name="q_reference">شجره‌نامه</string>
+    <string name="q_answer_label">جواب تو</string>
+    <string name="q_check">بررسی</string>
+    <string name="q_empty_answer">اول جواب رو بنویس.</string>
+    <string name="q_play_again">دوباره پخش کن</string>
+    <string name="feedback_correct">آفرین، درسته!</string>
+    <string name="feedback_almost">تقریباً! یک حرف جا افتاد</string>
+    <string name="feedback_wrong">نه، این نبود</string>
+    <string name="feedback_answer">جواب درست: %1$s</string>
+    <string name="feedback_next">سؤال بعدی</string>
+    <string name="feedback_got_it">فهمیدم</string>
+    <string name="question_count">سؤال %1$d از %2$d</string>
+    <string name="result_passed">قبول شد · %1$d از %2$d درست</string>
+    <string name="result_failed">برای قبولی حداقل ۷۰٪ لازمه · %1$d از %2$d درست</string>
+    <string name="result_learned">%1$d لغت جدید یاد گرفتی</string>
+    <string name="result_learned_hint">حالا با تمرین جاشون بنداز. از فردا هم توی مرور روزانه میان.</string>
+    <string name="result_unlocked">فصل %1$s باز شد</string>
+    <string name="result_unlocked_hint">لغت‌های این فصل وارد مرور روزانه شدن.</string>
+    <string name="result_missed">لغت‌هایی که اشتباه زدی</string>
+    <string name="result_next_step">مرحله‌ی بعد</string>
+    <string name="result_retry">دوباره تلاش کن</string>
+    <string name="result_back_to_unit">برگشت به فصل</string>
+</resources>

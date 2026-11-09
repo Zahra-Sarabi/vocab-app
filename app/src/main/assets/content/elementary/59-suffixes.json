@@ -1,0 +1,42 @@
+{
+  "id": "elementary-59-suffixes",
+  "order": 59,
+  "title": "Suffixes",
+  "titleFa": "پسوندها",
+  "illustration": "light-bulb",
+  "color": "mint",
+  "descriptionFa": "پسوندهایی مثل er، ful، less، ness و y که از یه کلمه، کلمه‌ی جدید می‌سازن.",
+  "referenceRows": [],
+  "words": [
+    { "id": "suffix-worker", "text": "worker", "meaningFa": "کارگر، کارمند", "partOfSpeech": "noun", "phonetic": "/ˈwɜː.kər/", "example": "He's a hard worker. He works twelve hours a day.", "tipFa": "-er / -or = آدمی که کاری می‌کنه: swimmer, footballer, instructor." },
+    { "id": "suffix-swimmer", "text": "swimmer", "meaningFa": "شناگر", "partOfSpeech": "noun", "phonetic": "/ˈswɪm.ər/", "example": "She's a very good swimmer. She was in the national team." },
+    { "id": "suffix-instructor", "text": "instructor", "meaningFa": "مربی، آموزش‌دهنده", "partOfSpeech": "noun", "phonetic": "/ɪnˈstrʌk.tər/", "example": "My driving instructor is very patient." },
+    { "id": "suffix-builder", "text": "builder", "meaningFa": "بنّا، سازنده‌ی ساختمان", "partOfSpeech": "noun", "phonetic": "/ˈbɪl.dər/", "example": "Do you know a good builder who can work on our house?" },
+    { "id": "suffix-traveller", "text": "traveller", "meaningFa": "مسافر، جهانگرد", "partOfSpeech": "noun", "phonetic": "/ˈtræv.əl.ər/", "example": "Marco Polo was a famous traveller.", "tipFa": "آمریکایی‌ها traveler (با یه l) می‌نویسن." },
+    { "id": "suffix-calculator", "text": "calculator", "meaningFa": "ماشین‌حساب", "partOfSpeech": "noun", "phonetic": "/ˈkæl.kjə.leɪ.tər/", "example": "Can we use a calculator in the maths test?", "tipFa": "-er / -or برای دستگاه هم هست: cooker, opener, hairdryer." },
+    { "id": "suffix-opener", "text": "opener", "meaningFa": "دربازکن (بطری، کنسرو)", "partOfSpeech": "noun", "phonetic": "/ˈəʊ.pən.ər/", "example": "Can I use your bottle opener, please?" },
+    { "id": "suffix-useful", "text": "useful", "meaningFa": "مفید، به‌دردبخور", "partOfSpeech": "adjective", "phonetic": "/ˈjuːs.fəl/", "example": "Thanks for the information. It was very useful.", "tipFa": "-ful = پر از: useful, helpful, hopeful. -less = بدون: useless, painless." },
+    { "id": "suffix-useless", "text": "useless", "meaningFa": "بی‌فایده، به‌دردنخور", "partOfSpeech": "adjective", "phonetic": "/ˈjuːs.ləs/", "example": "This old phone is useless. It doesn't work." },
+    { "id": "suffix-helpful", "text": "helpful", "meaningFa": "کمک‌کننده، مفید", "partOfSpeech": "adjective", "phonetic": "/ˈhelp.fəl/", "example": "The waiter was very helpful and explained everything on the menu." },
+    { "id": "suffix-careless", "text": "careless", "meaningFa": "بی‌دقت، سهل‌انگار", "partOfSpeech": "adjective", "phonetic": "/ˈkeə.ləs/", "example": "Check your work. Don't make careless mistakes.", "tipFa": "ضدش: careful (بادقت)." },
+    { "id": "suffix-endless", "text": "endless", "meaningFa": "بی‌پایان، تمام‌نشدنی", "partOfSpeech": "adjective", "phonetic": "/ˈend.ləs/", "example": "I can't finish this book. It's endless!" },
+    { "id": "suffix-painless", "text": "painless", "meaningFa": "بدون درد", "partOfSpeech": "adjective", "phonetic": "/ˈpeɪn.ləs/", "example": "Don't worry. The injection is painless." },
+    { "id": "suffix-happily", "text": "happily", "meaningFa": "با خوشحالی، به‌خوبی و خوشی", "partOfSpeech": "adverb", "phonetic": "/ˈhæp.əl.i/", "example": "They are happily married with two children.", "tipFa": "y آخر به i تبدیل می‌شه: happy → happily, easy → easily." },
+    { "id": "suffix-happiness", "text": "happiness", "meaningFa": "شادی، خوشبختی", "partOfSpeech": "noun", "phonetic": "/ˈhæp.i.nəs/", "example": "Money doesn't always bring happiness.", "tipFa": "-ness از صفت اسم می‌سازه: sad → sadness, kind → kindness." },
+    { "id": "suffix-sadness", "text": "sadness", "meaningFa": "غم، اندوه", "partOfSpeech": "noun", "phonetic": "/ˈsæd.nəs/", "example": "They said goodbye with great sadness." },
+    { "id": "suffix-kindness", "text": "kindness", "meaningFa": "مهربانی", "partOfSpeech": "noun", "phonetic": "/ˈkaɪnd.nəs/", "example": "Thank you very much for all your kindness." },
+    { "id": "suffix-sandy", "text": "sandy", "meaningFa": "شنی، پوشیده از شن", "partOfSpeech": "adjective", "phonetic": "/ˈsæn.di/", "example": "That beach is very popular because it's long and sandy.", "tipFa": "-y از اسم صفت می‌سازه: sand → sandy, sun → sunny, rain → rainy." }
+  ],
+  "gapQuestions": [
+    { "id": "suffix-gap-1", "sentence": "My golf ___ shows me how to hold the club.", "answer": "instructor", "hintFa": "مربی." },
+    { "id": "suffix-gap-2", "sentence": "I need a bottle ___. This lid is very tight.", "answer": "opener", "hintFa": "دربازکن." },
+    { "id": "suffix-gap-3", "sentence": "This map is ___. It's ten years old and all the roads are different.", "answer": "useless", "hintFa": "بی‌فایده." },
+    { "id": "suffix-gap-4", "sentence": "She was smiling with ___ when she heard the good news.", "answer": "happiness", "hintFa": "شادی." },
+    { "id": "suffix-gap-5", "sentence": "It's important not to make ___ mistakes in your writing.", "answer": "careless", "hintFa": "بی‌دقت." },
+    { "id": "suffix-gap-6", "sentence": "Thank you for all your ___. You've helped me so much.", "answer": "kindness", "hintFa": "مهربانی." },
+    { "id": "suffix-gap-7", "sentence": "The beaches in the south are long and ___.", "answer": "sandy", "hintFa": "شنی." },
+    { "id": "suffix-gap-8", "sentence": "Can I use your ___? I can't do this sum in my head.", "answer": "calculator", "hintFa": "ماشین‌حساب." },
+    { "id": "suffix-gap-9", "sentence": "We need a ___ to build a new wall in our garden.", "answer": "builder", "hintFa": "بنّا." },
+    { "id": "suffix-gap-10", "sentence": "The shop assistant was very ___ and found the right size for me.", "answer": "helpful", "hintFa": "کمک‌کننده." }
+  ]
+}

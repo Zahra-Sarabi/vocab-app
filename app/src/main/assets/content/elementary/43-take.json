@@ -1,0 +1,32 @@
+{
+  "id": "elementary-43-take",
+  "order": 43,
+  "title": "Take / took / taken",
+  "titleFa": "عبارت‌های take",
+  "illustration": "calendar",
+  "color": "periwinkle",
+  "descriptionFa": "take برای زمان، بردن چیزی با خودت، وسیله‌ی نقلیه، و کلاس و دوره.",
+  "referenceRows": [],
+  "words": [
+    { "id": "take-took", "text": "took", "meaningFa": "برداشت، برد (گذشته‌ی take)", "partOfSpeech": "verb", "phonetic": "/tʊk/", "example": "I took my camera on holiday.", "tipFa": "سه شکل: take / took / taken." },
+    { "id": "take-it-takes", "text": "it takes", "meaningFa": "طول می‌کشه", "partOfSpeech": "phrase", "phonetic": "/ɪt ˈteɪks/", "example": "It takes me twenty minutes to walk to work.", "tipFa": "it + take + آدم + زمان: It took me two hours yesterday." },
+    { "id": "take-how-long-does-it-take", "text": "how long does it take", "meaningFa": "چقدر طول می‌کشه؟", "partOfSpeech": "phrase", "phonetic": "/haʊ ˈlɒŋ dəz ɪt ˈteɪk/", "example": "How long does it take to get to the airport?", "tipFa": "گذشته: How long did it take you?" },
+    { "id": "take-take", "text": "take", "meaningFa": "(با خود) بردن", "partOfSpeech": "verb", "phonetic": "/teɪk/", "example": "It's going to rain. Take an umbrella with you.", "tipFa": "take = از اینجا به اونجا بردن. بیاری اینجا: bring." },
+    { "id": "take-take-a-course", "text": "take a course", "meaningFa": "دوره گذروندن", "partOfSpeech": "verb phrase", "phonetic": "/teɪk ə ˈkɔːs/", "example": "I want to take a course in photography.", "tipFa": "do a course هم درسته." },
+    { "id": "take-take-lessons", "text": "take lessons", "meaningFa": "کلاس رفتن، درس گرفتن", "partOfSpeech": "verb phrase", "phonetic": "/teɪk ˈles.ənz/", "example": "My daughter wants to take lessons in piano.", "tipFa": "have lessons هم همینه. با اسم ساز یا درس: take piano lessons." },
+    { "id": "take-take-the-bus", "text": "take the bus", "meaningFa": "با اتوبوس رفتن", "partOfSpeech": "verb phrase", "phonetic": "/teɪk ðə ˈbʌs/", "example": "I take the bus to university every day.", "tipFa": "take the train / the underground / the metro هم همین‌طور." },
+    { "id": "take-take-a-taxi", "text": "take a taxi", "meaningFa": "تاکسی گرفتن", "partOfSpeech": "verb phrase", "phonetic": "/teɪk ə ˈtæk.si/", "example": "It's late. Let's take a taxi home.", "tipFa": "با a: take a taxi، ولی take the bus." },
+    { "id": "take-take-the-train", "text": "take the train", "meaningFa": "با قطار رفتن", "partOfSpeech": "verb phrase", "phonetic": "/teɪk ðə ˈtreɪn/", "example": "We usually take the train to Mashhad." }
+  ],
+  "gapQuestions": [
+    { "id": "take-gap-1", "sentence": "___ me an hour to cook dinner every evening.", "answer": "it takes", "hintFa": "طول می‌کشه." },
+    { "id": "take-gap-2", "sentence": "Excuse me, ___ to get to the station on foot?", "answer": "how long does it take", "hintFa": "چقدر طول می‌کشه؟" },
+    { "id": "take-gap-3", "sentence": "It was a beautiful day, so I ___ lots of photos.", "answer": "took", "hintFa": "گذشته‌ی take." },
+    { "id": "take-gap-4", "sentence": "We were late, so we decided to ___ from the airport.", "answer": "take a taxi", "hintFa": "تاکسی بگیریم." },
+    { "id": "take-gap-5", "sentence": "I want to learn Spanish, so I'm going to ___ at the language school.", "answer": "take a course", "hintFa": "دوره بگذرونم." },
+    { "id": "take-gap-6", "sentence": "The hotel is far, so don't walk. ___ number 12.", "answer": "take the bus", "hintFa": "با اتوبوس برو." },
+    { "id": "take-gap-7", "sentence": "Don't forget to ___ your passport to the airport!", "answer": "take", "hintFa": "با خودت ببری." },
+    { "id": "take-gap-8", "sentence": "I don't like flying, so I always ___ to Isfahan.", "answer": "take the train", "hintFa": "با قطار." },
+    { "id": "take-gap-9", "sentence": "My son is going to ___ with a swimming teacher this summer.", "answer": "take lessons", "hintFa": "کلاس بره." }
+  ]
+}

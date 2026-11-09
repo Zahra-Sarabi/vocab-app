@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="course_title">مسیر یادگیری</string>
+    <string name="course_level_mastery">تسلط سطح</string>
+    <string name="course_level_passed">%1$d از %2$d فصل قبول شده</string>
+    <string name="course_level_empty">فصل‌های این سطح به‌زودی اضافه می‌شن.</string>
+    <string name="course_level_locked">با قبولی فصل‌های سطح قبل باز می‌شه.</string>
+    <string name="course_unit_title">فصل %1$d · %2$s</string>
+    <string name="course_unit_number">فصل %1$d</string>
+    <string name="course_unit_meta">%1$d لغت · تسلط %2$d٪</string>
+    <string name="course_unit_locked">با قبولی فصل قبل باز می‌شه</string>
+    <string name="course_unit_needs_review">نیاز به مرور · تسلط %1$d٪</string>
+    <string name="course_back">برگشت</string>
+    <string name="course_words">%1$d لغت</string>
+    <string name="course_steps">مرحله‌ها</string>
+    <string name="course_continue">ادامه‌ی درس</string>
+    <string name="course_retake">تکرار آزمون</string>
+    <string name="course_step_done">کامل</string>
+    <string name="step_learn">آموزش لغت‌ها</string>
+    <string name="step_meaning">تمرین معنی</string>
+    <string name="step_match">وصل کردن</string>
+    <string name="step_gap">جای خالی</string>
+    <string name="step_listen">شنیداری</string>
+    <string name="step_unit_test">آزمون فصل</string>
+    <string name="course_word_list">لغت‌های این فصل</string>
+</resources>

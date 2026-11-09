@@ -1,0 +1,51 @@
+{
+  "id": "elementary-02-life-events",
+  "order": 2,
+  "title": "Birth, marriage and death",
+  "titleFa": "تولد، ازدواج و مرگ",
+  "illustration": "party-popper",
+  "color": "pink",
+  "descriptionFa": "اتفاق‌های مهم زندگی: به دنیا آمدن، ازدواج، جدایی و فوت.",
+  "referenceRows": [
+    "1972 · Omid: born in Shiraz",
+    "1998 · Omid + Leila: wedding, honeymoon in Kish",
+    "2001 · baby girl, Mina: 3.2 kg",
+    "2015 · Omid + Leila: divorced",
+    "2023 · Omid: ill, then died"
+  ],
+  "words": [
+    { "id": "life-have-a-baby", "text": "have a baby", "meaningFa": "بچه‌دار شدن، زایمان کردن", "partOfSpeech": "phrase", "phonetic": "/hæv ə ˈbeɪ.bi/", "example": "My sister is going to have a baby in May.", "tipFa": "got a baby نمی‌گیم؛ همیشه have/had a baby." },
+    { "id": "life-was-born", "text": "was born", "meaningFa": "به دنیا آمد", "partOfSpeech": "verb phrase", "phonetic": "/wəz ˈbɔːn/", "example": "I was born in Tabriz in 1998.", "tipFa": "همیشه با was/were: I was born. نه I born و نه I am born." },
+    { "id": "life-birth", "text": "birth", "meaningFa": "تولد، به دنیا آمدن", "partOfSpeech": "noun", "phonetic": "/bɜːθ/", "example": "Please write your date of birth on the form.", "wordFamily": ["born", "birthday"] },
+    { "id": "life-birthday", "text": "birthday", "meaningFa": "روز تولد، سالروز تولد", "partOfSpeech": "noun", "phonetic": "/ˈbɜːθ.deɪ/", "example": "My birthday is on the fifth of March." },
+    { "id": "life-weigh", "text": "weigh", "meaningFa": "وزن داشتن", "partOfSpeech": "verb", "phonetic": "/weɪ/", "example": "How much does the baby weigh?", "wordFamily": ["weight"] },
+    { "id": "life-call", "text": "call", "meaningFa": "اسم گذاشتن، نامیدن", "partOfSpeech": "verb", "phonetic": "/kɔːl/", "example": "We want to call our son Arman.", "tipFa": "call هم یعنی «تلفن زدن» و هم «اسم گذاشتن»." },
+    { "id": "life-after", "text": "after", "meaningFa": "به اسمِ (کسی)، هم‌نام با", "partOfSpeech": "preposition", "phonetic": "/ˈɑːf.tər/", "example": "They called her Mina after her grandmother.", "tipFa": "وقتی بچه رو هم‌اسم کسی می‌ذارن: call someone after someone." },
+    { "id": "life-single", "text": "single", "meaningFa": "مجرد", "partOfSpeech": "adjective", "phonetic": "/ˈsɪŋ.ɡəl/", "example": "Reza is thirty-five and he is still single." },
+    { "id": "life-partner", "text": "partner", "meaningFa": "شریک زندگی", "partOfSpeech": "noun", "phonetic": "/ˈpɑːt.nər/", "example": "Do you live with your partner?" },
+    { "id": "life-married", "text": "married", "meaningFa": "متأهل", "partOfSpeech": "adjective", "phonetic": "/ˈmær.id/", "example": "Are you married or single?" },
+    { "id": "life-get-married", "text": "get married", "meaningFa": "ازدواج کردن", "partOfSpeech": "verb phrase", "phonetic": "/ɡet ˈmær.id/", "example": "When are you going to get married?", "tipFa": "get married to someone، نه with someone." },
+    { "id": "life-wedding", "text": "wedding", "meaningFa": "عروسی، مراسم ازدواج", "partOfSpeech": "noun", "phonetic": "/ˈwed.ɪŋ/", "example": "We danced all night at my cousin's wedding." },
+    { "id": "life-bride", "text": "bride", "meaningFa": "عروس", "partOfSpeech": "noun", "phonetic": "/braɪd/", "example": "The bride wore a long white dress.", "tipFa": "bride فقط برای روز عروسیه. «عروسِ خانواده» می‌شه daughter-in-law." },
+    { "id": "life-groom", "text": "groom", "meaningFa": "داماد", "partOfSpeech": "noun", "phonetic": "/ɡruːm/", "example": "The groom was very nervous before the ceremony.", "tipFa": "اسم کاملش bridegroom هست. «دامادِ خانواده» می‌شه son-in-law." },
+    { "id": "life-honeymoon", "text": "honeymoon", "meaningFa": "ماه عسل", "partOfSpeech": "noun", "phonetic": "/ˈhʌn.i.muːn/", "example": "They went to Kish for their honeymoon.", "tipFa": "go on (a) honeymoon: به ماه عسل رفتن." },
+    { "id": "life-separated", "text": "separated", "meaningFa": "جداشده (هنوز طلاق رسمی نگرفته)", "partOfSpeech": "adjective", "phonetic": "/ˈsep.ər.eɪ.tɪd/", "example": "They are separated, but they are not divorced yet." },
+    { "id": "life-divorced", "text": "divorced", "meaningFa": "طلاق‌گرفته", "partOfSpeech": "adjective", "phonetic": "/dɪˈvɔːst/", "example": "His parents got divorced when he was ten.", "tipFa": "get divorced: طلاق گرفتن." },
+    { "id": "life-widowed", "text": "widowed", "meaningFa": "بیوه (کسی که همسرش فوت کرده)", "partOfSpeech": "adjective", "phonetic": "/ˈwɪd.əʊd/", "example": "My grandmother was widowed at the age of sixty.", "wordFamily": ["widow", "widower"], "tipFa": "به زن بیوه widow و به مرد بیوه widower می‌گن." },
+    { "id": "life-ill", "text": "ill", "meaningFa": "بیمار، مریض", "partOfSpeech": "adjective", "phonetic": "/ɪl/", "example": "My father was ill, so he stayed in bed all week.", "tipFa": "ill بیشتر بعد از فعل میاد (He is ill). قبل از اسم sick می‌گیم: a sick child." },
+    { "id": "life-die", "text": "die", "meaningFa": "مردن، فوت کردن", "partOfSpeech": "verb", "phonetic": "/daɪ/", "example": "Many people die of heart disease every year.", "tipFa": "برای علتِ مرگ از of استفاده می‌شه: He died of a heart attack." },
+    { "id": "life-dead", "text": "dead", "meaningFa": "مرده، فوت‌شده", "partOfSpeech": "adjective", "phonetic": "/ded/", "example": "The flowers are dead because nobody watered them.", "tipFa": "He is dead درسته. He is died و He is death غلطه." },
+    { "id": "life-death", "text": "death", "meaningFa": "مرگ، فوت", "partOfSpeech": "noun", "phonetic": "/deθ/", "example": "His death was a shock to the whole family." },
+    { "id": "life-funeral", "text": "funeral", "meaningFa": "مراسم خاکسپاری، تشییع جنازه", "partOfSpeech": "noun", "phonetic": "/ˈfjuː.nər.əl/", "example": "Many people came to her grandfather's funeral." }
+  ],
+  "gapQuestions": [
+    { "id": "life-gap-1", "sentence": "Omid ___ in Shiraz in 1972.", "answer": "was born", "hintFa": "به خط زمانی نگاه کن." },
+    { "id": "life-gap-2", "sentence": "Omid and Leila had a big ___ in 1998.", "answer": "wedding", "hintFa": "به خط زمانی نگاه کن." },
+    { "id": "life-gap-3", "sentence": "After the wedding, they went to Kish on their ___.", "answer": "honeymoon", "hintFa": "به خط زمانی نگاه کن." },
+    { "id": "life-gap-4", "sentence": "At the wedding, Leila was the ___ and Omid was the groom.", "answer": "bride", "hintFa": "زنی که روز عروسی لباس سفید می‌پوشه." },
+    { "id": "life-gap-5", "sentence": "When Mina was born, she was very small. She didn't ___ much: only 3.2 kilos.", "answer": "weigh", "hintFa": "به خط زمانی نگاه کن." },
+    { "id": "life-gap-6", "sentence": "In 2015, Omid and Leila got ___.", "answer": "divorced", "hintFa": "به خط زمانی نگاه کن." },
+    { "id": "life-gap-7", "sentence": "In 2023, Omid became ___ and died a few months later.", "answer": "ill", "hintFa": "به خط زمانی نگاه کن." },
+    { "id": "life-gap-8", "sentence": "Mina wore black at her father's ___.", "answer": "funeral", "hintFa": "مراسمی بعد از فوت کسی." }
+  ]
+}
