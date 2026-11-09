@@ -26,9 +26,18 @@ The debug build installs as `com.vocab.app.debug`, so it can sit beside a releas
 
 ### Install on your phone (نصب روی گوشی)
 
-1. Build the APK (`./gradlew assembleDebug`). It is written to `app/build/outputs/apk/debug/app-debug.apk`; a copy named `loghatyar-debug.apk` is kept in `dist/` (not in git).
-2. Send the APK to the phone: Telegram "Saved Messages", Google Drive, or a USB cable.
-3. On the phone, open the file and tap **Install**. The first time, Android asks to allow installs from that app (Telegram, Files, …): turn on **Allow from this source**, go back, and tap **Install** again.
+**[⬇️ دانلود لغت‌یار (APK)](https://github.com/Zahra-Sarabi/vocab-app/releases/latest/download/loghatyar-debug.apk)**
+
+1. Open the link above on the phone. It always downloads the newest release.
+2. Open the downloaded file and tap **Install**.
+3. The first time, Android asks to allow installs from that app (Chrome, Files, …): turn on **Allow from this source**, go back, and tap **Install** again.
+4. If Play Protect warns that the app is unknown, tap **More details › Install anyway**. It warns because the app is not from Google Play.
+
+Updating: open the link again and install over the old version; progress is kept. Before moving to another phone or uninstalling, use **Settings › پشتیبان‌گیری** to export a backup file.
+
+**Publishing a new version:** run `./gradlew assembleDebug`, rename `app/build/outputs/apk/debug/app-debug.apk` to `loghatyar-debug.apk`, and attach it to a new release on GitHub (**Releases › Draft a new release**). The link above picks up the latest release by itself, as long as the file keeps that name.
+
+With USB debugging on, `adb install -r app/build/outputs/apk/debug/app-debug.apk` installs it directly. The first time, Android asks to allow installs from that app (Telegram, Files, …): turn on **Allow from this source**, go back, and tap **Install** again.
 4. If Play Protect warns that the app is unknown, tap **More details › Install anyway**. It warns because the app is not from Google Play.
 
 Updating: install the new APK over the old one; progress is kept. Before moving to another phone or uninstalling, use **Settings › پشتیبان‌گیری** to export a backup file.
