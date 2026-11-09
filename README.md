@@ -24,6 +24,17 @@ From a terminal:
 
 The debug build installs as `com.vocab.app.debug`, so it can sit beside a release build.
 
+### Install on your phone (نصب روی گوشی)
+
+1. Build the APK (`./gradlew assembleDebug`). It is written to `app/build/outputs/apk/debug/app-debug.apk`; a copy named `loghatyar-debug.apk` is kept in `dist/` (not in git).
+2. Send the APK to the phone: Telegram "Saved Messages", Google Drive, or a USB cable.
+3. On the phone, open the file and tap **Install**. The first time, Android asks to allow installs from that app (Telegram, Files, …): turn on **Allow from this source**, go back, and tap **Install** again.
+4. If Play Protect warns that the app is unknown, tap **More details › Install anyway**. It warns because the app is not from Google Play.
+
+Updating: install the new APK over the old one; progress is kept. Before moving to another phone or uninstalling, use **Settings › پشتیبان‌گیری** to export a backup file.
+
+With USB debugging on, `adb install -r app/build/outputs/apk/debug/app-debug.apk` installs it directly.
+
 ## Architecture
 
 Clean architecture in Gradle modules. Arrows point at what a module may depend on.

@@ -10,3 +10,4 @@ build/
 .cxx
 *.keystore
 __pycache__/
+/dist/
