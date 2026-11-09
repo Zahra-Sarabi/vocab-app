@@ -26,7 +26,7 @@ The debug build installs as `com.vocab.app.debug`, so it can sit beside a releas
 
 ### Install on your phone (نصب روی گوشی)
 
-**[⬇️ دانلود لغت‌یار (APK)](https://github.com/Zahra-Sarabi/vocab-app/releases/latest/download/loghatyar-debug.apk)**
+**[⬇️ دانلود لغت‌یار (APK)](https://github.com/Zahra-Sarabi/vocab-app/releases/latest/download/loghatyar.apk)**
 
 1. Open the link above on the phone. It always downloads the newest release.
 2. Open the downloaded file and tap **Install**.
@@ -35,7 +35,7 @@ The debug build installs as `com.vocab.app.debug`, so it can sit beside a releas
 
 Updating: open the link again and install over the old version; progress is kept. Before moving to another phone or uninstalling, use **Settings › پشتیبان‌گیری** to export a backup file.
 
-**Publishing a new version:** run `./gradlew assembleDebug`, rename `app/build/outputs/apk/debug/app-debug.apk` to `loghatyar-debug.apk`, and attach it to a new release on GitHub (**Releases › Draft a new release**). The link above picks up the latest release by itself, as long as the file keeps that name.
+**Publishing a new version:** run `./gradlew assembleDebug`, rename `app/build/outputs/apk/debug/app-debug.apk` to `loghatyar.apk`, and attach it to a new release on GitHub (**Releases › Draft a new release**). The link above picks up the latest release by itself, as long as the file keeps that name.
 
 With USB debugging on, `adb install -r app/build/outputs/apk/debug/app-debug.apk` installs it directly.
 
