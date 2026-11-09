@@ -37,11 +37,6 @@ Updating: open the link again and install over the old version; progress is kept
 
 **Publishing a new version:** run `./gradlew assembleDebug`, rename `app/build/outputs/apk/debug/app-debug.apk` to `loghatyar-debug.apk`, and attach it to a new release on GitHub (**Releases › Draft a new release**). The link above picks up the latest release by itself, as long as the file keeps that name.
 
-With USB debugging on, `adb install -r app/build/outputs/apk/debug/app-debug.apk` installs it directly. The first time, Android asks to allow installs from that app (Telegram, Files, …): turn on **Allow from this source**, go back, and tap **Install** again.
-4. If Play Protect warns that the app is unknown, tap **More details › Install anyway**. It warns because the app is not from Google Play.
-
-Updating: install the new APK over the old one; progress is kept. Before moving to another phone or uninstalling, use **Settings › پشتیبان‌گیری** to export a backup file.
-
 With USB debugging on, `adb install -r app/build/outputs/apk/debug/app-debug.apk` installs it directly.
 
 ## Architecture
